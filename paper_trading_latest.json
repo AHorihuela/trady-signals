@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-03-10T15:47:14Z",
+  "data_date": "2026-03-10",
+  "formula_version": "v2-overnight",
+  "signals": {
+    "vix": 22.96,
+    "vix3m": 23.96,
+    "rv21": 11.541,
+    "vrp_z": 0.9521,
+    "ts_z": 0.7759,
+    "overnight_z": -1.7865,
+    "yc_inverted": false
+  },
+  "weights": {
+    "target": {
+      "SPY": 0.5011,
+      "IEF": 0.3492,
+      "GLD": 0.1497,
+      "DBMF": 0.2414
+    },
+    "current": {
+      "SPY": 0.5011,
+      "IEF": 0.3492,
+      "GLD": 0.1497,
+      "DBMF": 0.2414
+    },
+    "max_drift": 0.0,
+    "rebalance_needed": true,
+    "total_notional": 1.241
+  },
+  "performance": {
+    "cumulative_return": 0.0,
+    "sharpe": 0.0,
+    "max_drawdown": 0.0,
+    "inception_date": "2026-03-10",
+    "trading_days": 1
+  },
+  "history": [
+    {
+      "date": "2026-03-10",
+      "vrp_z": 0.9521,
+      "ts_z": 0.7759,
+      "overnight_z": -1.7865,
+      "equity_wt": 0.5011,
+      "ts_gate": false,
+      "spy_wt": 0.5011,
+      "daily_return": 0.0,
+      "cumulative_return": 0.0,
+      "formula_version": "v2-overnight"
+    }
+  ],
+  "annual_returns": {
+    "2026": 0.0
+  }
+}
