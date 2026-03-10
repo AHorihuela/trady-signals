@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-03-10T15:47:14Z",
+  "generated_at": "2026-03-10T16:06:29Z",
   "data_date": "2026-03-10",
   "formula_version": "v2-overnight",
   "signals": {
-    "vix": 22.96,
-    "vix3m": 23.96,
-    "rv21": 11.541,
-    "vrp_z": 0.9521,
-    "ts_z": 0.7759,
-    "overnight_z": -1.7865,
+    "vix": 22.8,
+    "vix3m": 23.87,
+    "rv21": 11.4747,
+    "vrp_z": 0.9411,
+    "ts_z": 0.7382,
+    "overnight_z": -1.7569,
     "yc_inverted": false
   },
   "weights": {
     "target": {
-      "SPY": 0.5011,
-      "IEF": 0.3492,
-      "GLD": 0.1497,
+      "SPY": 0.5004,
+      "IEF": 0.3497,
+      "GLD": 0.1499,
       "DBMF": 0.2414
     },
     "current": {
-      "SPY": 0.5011,
-      "IEF": 0.3492,
-      "GLD": 0.1497,
+      "SPY": 0.5004,
+      "IEF": 0.3497,
+      "GLD": 0.1499,
       "DBMF": 0.2414
     },
     "max_drift": 0.0,
@@ -38,12 +38,12 @@
   "history": [
     {
       "date": "2026-03-10",
-      "vrp_z": 0.9521,
-      "ts_z": 0.7759,
-      "overnight_z": -1.7865,
-      "equity_wt": 0.5011,
+      "vrp_z": 0.9411,
+      "ts_z": 0.7382,
+      "overnight_z": -1.7569,
+      "equity_wt": 0.5004,
       "ts_gate": false,
-      "spy_wt": 0.5011,
+      "spy_wt": 0.5004,
       "daily_return": 0.0,
       "cumulative_return": 0.0,
       "formula_version": "v2-overnight"
