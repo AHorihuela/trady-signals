@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-03-16T21:48:26Z",
-  "data_date": "2026-03-16",
+  "generated_at": "2026-03-17T22:03:36Z",
+  "data_date": "2026-03-17",
   "formula_version": "v3-costs",
   "signals": {
-    "vix": 23.51,
-    "vix3m": 24.92,
-    "rv21": 11.968,
-    "vrp_z": 0.9462,
-    "ts_z": 0.6177,
-    "overnight_z": -1.732,
+    "vix": 22.37,
+    "vix3m": 24.33,
+    "rv21": 12.0182,
+    "vrp_z": 0.8017,
+    "ts_z": 0.3217,
+    "overnight_z": -1.5916,
     "yc_inverted": false
   },
   "weights": {
     "target": {
-      "SPY": 0.5026,
-      "IEF": 0.3482,
-      "GLD": 0.1492,
-      "DBMF": 0.2222
+      "SPY": 0.4808,
+      "IEF": 0.3635,
+      "GLD": 0.1558,
+      "DBMF": 0.2158
     },
     "current": {
-      "SPY": 0.5026,
-      "IEF": 0.3482,
-      "GLD": 0.1492,
-      "DBMF": 0.2222
+      "SPY": 0.4808,
+      "IEF": 0.3635,
+      "GLD": 0.1558,
+      "DBMF": 0.2158
     },
     "max_drift": 0.0,
     "rebalance_needed": true,
-    "total_notional": 1.222
+    "total_notional": 1.216
   },
   "performance": {
-    "cumulative_return": 2.6038,
+    "cumulative_return": 2.6016,
     "sharpe": 1.64,
     "max_drawdown": -0.0822,
     "inception_date": "2019-05-08",
-    "trading_days": 1723
+    "trading_days": 1724
   },
   "spy_performance": {
-    "cumulative_return": 1.575923,
+    "cumulative_return": 1.582699,
     "sharpe": 0.8,
     "max_drawdown": -0.3372
   },
@@ -56,7 +56,7 @@
     },
     {
       "date": "2019-05-09",
-      "vrp_z": 1.6306,
+      "vrp_z": 1.6307,
       "ts_z": 1.4645,
       "overnight_z": -0.598,
       "equity_wt": 0.3481,
@@ -69,7 +69,7 @@
     },
     {
       "date": "2019-05-10",
-      "vrp_z": 0.9118,
+      "vrp_z": 0.9119,
       "ts_z": 0.3922,
       "overnight_z": -0.8521,
       "equity_wt": 0.5398,
@@ -82,7 +82,7 @@
     },
     {
       "date": "2019-05-13",
-      "vrp_z": 1.1178,
+      "vrp_z": 1.1179,
       "ts_z": 1.4796,
       "overnight_z": -1.2335,
       "equity_wt": 0.2809,
@@ -121,33 +121,33 @@
     },
     {
       "date": "2019-05-16",
-      "vrp_z": -0.2665,
+      "vrp_z": -0.2664,
       "ts_z": -0.0649,
       "overnight_z": -1.9572,
-      "equity_wt": 0.2488,
+      "equity_wt": 0.2489,
       "ts_gate": false,
       "spy_wt": 0.3298,
       "daily_return": 0.0018,
       "cumulative_return": -0.0004,
-      "spy_cumulative_return": 0.000592,
+      "spy_cumulative_return": 0.000591,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-05-17",
       "vrp_z": -0.1487,
       "ts_z": 0.2048,
-      "overnight_z": -2.3908,
+      "overnight_z": -2.3909,
       "equity_wt": 0.2507,
       "ts_gate": false,
       "spy_wt": 0.3298,
       "daily_return": -0.003,
       "cumulative_return": -0.0035,
-      "spy_cumulative_return": -0.005877,
+      "spy_cumulative_return": -0.005878,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-05-20",
-      "vrp_z": -0.0971,
+      "vrp_z": -0.097,
       "ts_z": 0.2982,
       "overnight_z": -2.5226,
       "equity_wt": 0.2545,
@@ -279,7 +279,7 @@
       "date": "2019-06-04",
       "vrp_z": -0.5739,
       "ts_z": 0.5343,
-      "overnight_z": -2.0199,
+      "overnight_z": -2.02,
       "equity_wt": 0.1842,
       "ts_gate": false,
       "spy_wt": 0.1744,
@@ -305,7 +305,7 @@
       "date": "2019-06-06",
       "vrp_z": -0.728,
       "ts_z": 0.2409,
-      "overnight_z": -1.4273,
+      "overnight_z": -1.4274,
       "equity_wt": 0.183,
       "ts_gate": false,
       "spy_wt": 0.1744,
@@ -318,7 +318,7 @@
       "date": "2019-06-07",
       "vrp_z": -0.7305,
       "ts_z": 0.3456,
-      "overnight_z": -1.4312,
+      "overnight_z": -1.4311,
       "equity_wt": 0.1823,
       "ts_gate": false,
       "spy_wt": 0.1823,
@@ -331,7 +331,7 @@
       "date": "2019-06-10",
       "vrp_z": -0.815,
       "ts_z": 0.2655,
-      "overnight_z": -1.0394,
+      "overnight_z": -1.0395,
       "equity_wt": 0.185,
       "ts_gate": false,
       "spy_wt": 0.1823,
@@ -370,7 +370,7 @@
       "date": "2019-06-13",
       "vrp_z": -0.1379,
       "ts_z": 0.1785,
-      "overnight_z": -0.1958,
+      "overnight_z": -0.1959,
       "equity_wt": 0.3626,
       "ts_gate": false,
       "spy_wt": 0.352,
@@ -493,7 +493,7 @@
       "spy_wt": 0.4638,
       "daily_return": -0.0107,
       "cumulative_return": 0.0602,
-      "spy_cumulative_return": 0.015138,
+      "spy_cumulative_return": 0.015139,
       "formula_version": "v3-costs"
     },
     {
@@ -545,7 +545,7 @@
       "spy_wt": 0.4638,
       "daily_return": 0.0172,
       "cumulative_return": 0.0851,
-      "spy_cumulative_return": 0.035968,
+      "spy_cumulative_return": 0.035967,
       "formula_version": "v3-costs"
     },
     {
@@ -623,7 +623,7 @@
       "spy_wt": 0.5325,
       "daily_return": -0.0068,
       "cumulative_return": 0.0785,
-      "spy_cumulative_return": 0.046032,
+      "spy_cumulative_return": 0.046033,
       "formula_version": "v3-costs"
     },
     {
@@ -641,7 +641,7 @@
     },
     {
       "date": "2019-07-15",
-      "vrp_z": 0.4902,
+      "vrp_z": 0.4901,
       "ts_z": -1.0202,
       "overnight_z": 0.5029,
       "equity_wt": 0.5232,
@@ -740,7 +740,7 @@
       "spy_wt": 0.5528,
       "daily_return": 0.008,
       "cumulative_return": 0.1053,
-      "spy_cumulative_return": 0.053476,
+      "spy_cumulative_return": 0.053477,
       "formula_version": "v3-costs"
     },
     {
@@ -766,7 +766,7 @@
       "spy_wt": 0.5528,
       "daily_return": 0.0074,
       "cumulative_return": 0.104,
-      "spy_cumulative_return": 0.055469,
+      "spy_cumulative_return": 0.055468,
       "formula_version": "v3-costs"
     },
     {
@@ -792,7 +792,7 @@
       "spy_wt": 0.5528,
       "daily_return": -0.0039,
       "cumulative_return": 0.099,
-      "spy_cumulative_return": 0.050961,
+      "spy_cumulative_return": 0.05096,
       "formula_version": "v3-costs"
     },
     {
@@ -800,9 +800,9 @@
       "vrp_z": 1.1769,
       "ts_z": 0.3546,
       "overnight_z": -0.2945,
-      "equity_wt": 0.6207,
+      "equity_wt": 0.6206,
       "ts_gate": false,
-      "spy_wt": 0.6207,
+      "spy_wt": 0.6206,
       "daily_return": -0.005,
       "cumulative_return": 0.0934,
       "spy_cumulative_return": 0.039462,
@@ -815,7 +815,7 @@
       "overnight_z": -0.0608,
       "equity_wt": 0.6856,
       "ts_gate": false,
-      "spy_wt": 0.6207,
+      "spy_wt": 0.6206,
       "daily_return": 0.0077,
       "cumulative_return": 0.1019,
       "spy_cumulative_return": 0.030411,
@@ -828,10 +828,10 @@
       "overnight_z": 0.0073,
       "equity_wt": 0.684,
       "ts_gate": false,
-      "spy_wt": 0.6207,
+      "spy_wt": 0.6206,
       "daily_return": -0.0099,
       "cumulative_return": 0.0909,
-      "spy_cumulative_return": 0.022653,
+      "spy_cumulative_return": 0.022652,
       "formula_version": "v3-costs"
     },
     {
@@ -929,13 +929,13 @@
       "date": "2019-08-14",
       "vrp_z": -0.1648,
       "ts_z": 1.3423,
-      "overnight_z": -0.7244,
+      "overnight_z": -0.7243,
       "equity_wt": 0.1654,
       "ts_gate": true,
       "spy_wt": 0.1654,
       "daily_return": 0.0007,
       "cumulative_return": 0.12,
-      "spy_cumulative_return": -0.007823,
+      "spy_cumulative_return": -0.007822,
       "formula_version": "v3-costs"
     },
     {
@@ -948,7 +948,7 @@
       "spy_wt": 0.2879,
       "daily_return": 0.0057,
       "cumulative_return": 0.1264,
-      "spy_cumulative_return": -0.005202,
+      "spy_cumulative_return": -0.005201,
       "formula_version": "v3-costs"
     },
     {
@@ -1026,7 +1026,7 @@
       "spy_wt": 0.1575,
       "daily_return": 0.0189,
       "cumulative_return": 0.138,
-      "spy_cumulative_return": -0.004502,
+      "spy_cumulative_return": -0.004503,
       "formula_version": "v3-costs"
     },
     {
@@ -1078,7 +1078,7 @@
       "spy_wt": 0.1575,
       "daily_return": -0.004,
       "cumulative_return": 0.1425,
-      "spy_cumulative_return": 0.022512,
+      "spy_cumulative_return": 0.022513,
       "formula_version": "v3-costs"
     },
     {
@@ -1098,7 +1098,7 @@
       "date": "2019-09-03",
       "vrp_z": -1.3121,
       "ts_z": 0.5181,
-      "overnight_z": 0.1236,
+      "overnight_z": 0.1237,
       "equity_wt": 0.1438,
       "ts_gate": false,
       "spy_wt": 0.1575,
@@ -1156,12 +1156,12 @@
       "spy_wt": 0.1575,
       "daily_return": -0.0031,
       "cumulative_return": 0.1277,
-      "spy_cumulative_return": 0.042153,
+      "spy_cumulative_return": 0.042154,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-09-10",
-      "vrp_z": -1.4028,
+      "vrp_z": -1.4027,
       "ts_z": -0.8598,
       "overnight_z": 0.9658,
       "equity_wt": 0.1677,
@@ -1187,7 +1187,7 @@
     },
     {
       "date": "2019-09-12",
-      "vrp_z": -1.3477,
+      "vrp_z": -1.3476,
       "ts_z": -1.2156,
       "overnight_z": 1.2348,
       "equity_wt": 0.1922,
@@ -1195,12 +1195,12 @@
       "spy_wt": 0.1575,
       "daily_return": 0.0023,
       "cumulative_return": 0.129,
-      "spy_cumulative_return": 0.052952,
+      "spy_cumulative_return": 0.052953,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-09-13",
-      "vrp_z": -0.6323,
+      "vrp_z": -0.6324,
       "ts_z": -1.4968,
       "overnight_z": 1.3112,
       "equity_wt": 0.3391,
@@ -1229,7 +1229,7 @@
       "vrp_z": -0.3655,
       "ts_z": -1.3164,
       "overnight_z": 1.0809,
-      "equity_wt": 0.381,
+      "equity_wt": 0.3809,
       "ts_gate": false,
       "spy_wt": 0.3641,
       "daily_return": 0.0024,
@@ -1247,7 +1247,7 @@
       "spy_wt": 0.3641,
       "daily_return": -0.0026,
       "cumulative_return": 0.1299,
-      "spy_cumulative_return": 0.052289,
+      "spy_cumulative_return": 0.052288,
       "formula_version": "v3-costs"
     },
     {
@@ -1364,7 +1364,7 @@
       "spy_wt": 0.664,
       "daily_return": -0.0062,
       "cumulative_return": 0.1306,
-      "spy_cumulative_return": 0.029551,
+      "spy_cumulative_return": 0.029552,
       "formula_version": "v3-costs"
     },
     {
@@ -1395,10 +1395,10 @@
     },
     {
       "date": "2019-10-04",
-      "vrp_z": 0.8798,
+      "vrp_z": 0.8797,
       "ts_z": -0.3468,
       "overnight_z": 0.2521,
-      "equity_wt": 0.5886,
+      "equity_wt": 0.5885,
       "ts_gate": false,
       "spy_wt": 0.664,
       "daily_return": 0.0103,
@@ -1434,7 +1434,7 @@
     },
     {
       "date": "2019-10-09",
-      "vrp_z": 0.8495,
+      "vrp_z": 0.8494,
       "ts_z": 0.1809,
       "overnight_z": 0.3066,
       "equity_wt": 0.5852,
@@ -1447,7 +1447,7 @@
     },
     {
       "date": "2019-10-10",
-      "vrp_z": 0.6361,
+      "vrp_z": 0.636,
       "ts_z": -0.0983,
       "overnight_z": 0.2598,
       "equity_wt": 0.5402,
@@ -1455,12 +1455,12 @@
       "spy_wt": 0.5402,
       "daily_return": -0.0022,
       "cumulative_return": 0.1312,
-      "spy_cumulative_return": 0.029551,
+      "spy_cumulative_return": 0.029552,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-10-11",
-      "vrp_z": 0.1133,
+      "vrp_z": 0.1132,
       "ts_z": -0.7461,
       "overnight_z": 0.3909,
       "equity_wt": 0.4422,
@@ -1473,7 +1473,7 @@
     },
     {
       "date": "2019-10-14",
-      "vrp_z": -0.0958,
+      "vrp_z": -0.0959,
       "ts_z": -1.2596,
       "overnight_z": 0.3009,
       "equity_wt": 0.3959,
@@ -1481,7 +1481,7 @@
       "spy_wt": 0.3959,
       "daily_return": 0.003,
       "cumulative_return": 0.1342,
-      "spy_cumulative_return": 0.039066,
+      "spy_cumulative_return": 0.039067,
       "formula_version": "v3-costs"
     },
     {
@@ -1501,7 +1501,7 @@
       "date": "2019-10-16",
       "vrp_z": -0.3692,
       "ts_z": -1.5324,
-      "overnight_z": 0.4089,
+      "overnight_z": 0.409,
       "equity_wt": 0.3466,
       "ts_gate": false,
       "spy_wt": 0.3959,
@@ -1515,7 +1515,7 @@
       "vrp_z": -0.3542,
       "ts_z": -1.3965,
       "overnight_z": 0.5798,
-      "equity_wt": 0.3582,
+      "equity_wt": 0.3581,
       "ts_gate": false,
       "spy_wt": 0.3959,
       "daily_return": -0.0007,
@@ -1525,7 +1525,7 @@
     },
     {
       "date": "2019-10-18",
-      "vrp_z": -0.2727,
+      "vrp_z": -0.2728,
       "ts_z": -1.147,
       "overnight_z": 0.5389,
       "equity_wt": 0.3724,
@@ -1546,25 +1546,25 @@
       "spy_wt": 0.3959,
       "daily_return": -0.0011,
       "cumulative_return": 0.127,
-      "spy_cumulative_return": 0.05325,
+      "spy_cumulative_return": 0.053251,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-10-22",
-      "vrp_z": -0.2582,
+      "vrp_z": -0.2583,
       "ts_z": -0.8796,
       "overnight_z": 0.6569,
       "equity_wt": 0.3812,
       "ts_gate": false,
       "spy_wt": 0.3959,
-      "daily_return": 0.0016,
+      "daily_return": 0.0015,
       "cumulative_return": 0.1287,
       "spy_cumulative_return": 0.04981,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-10-23",
-      "vrp_z": -0.2928,
+      "vrp_z": -0.2929,
       "ts_z": -1.0639,
       "overnight_z": 0.2801,
       "equity_wt": 0.3554,
@@ -1603,7 +1603,7 @@
     },
     {
       "date": "2019-10-28",
-      "vrp_z": -0.4345,
+      "vrp_z": -0.4346,
       "ts_z": -1.6024,
       "overnight_z": 0.1537,
       "equity_wt": 0.3208,
@@ -1631,7 +1631,7 @@
       "date": "2019-10-30",
       "vrp_z": -0.4045,
       "ts_z": -2.0609,
-      "overnight_z": -0.2313,
+      "overnight_z": -0.2314,
       "equity_wt": 0.3075,
       "ts_gate": false,
       "spy_wt": 0.3959,
@@ -1676,12 +1676,12 @@
       "spy_wt": 0.3959,
       "daily_return": -0.0017,
       "cumulative_return": 0.1473,
-      "spy_cumulative_return": 0.079162,
+      "spy_cumulative_return": 0.079161,
       "formula_version": "v3-costs"
     },
     {
       "date": "2019-11-05",
-      "vrp_z": 0.3731,
+      "vrp_z": 0.3732,
       "ts_z": -1.469,
       "overnight_z": 0.336,
       "equity_wt": 0.4914,
@@ -1741,7 +1741,7 @@
       "spy_wt": 0.5733,
       "daily_return": -0.0013,
       "cumulative_return": 0.1349,
-      "spy_cumulative_return": 0.082602,
+      "spy_cumulative_return": 0.082603,
       "formula_version": "v3-costs"
     },
     {
@@ -1767,7 +1767,7 @@
       "spy_wt": 0.5733,
       "daily_return": 0.0022,
       "cumulative_return": 0.1412,
-      "spy_cumulative_return": 0.085236,
+      "spy_cumulative_return": 0.085235,
       "formula_version": "v3-costs"
     },
     {
@@ -1814,12 +1814,12 @@
       "vrp_z": 1.2698,
       "ts_z": -1.2463,
       "overnight_z": -0.1642,
-      "equity_wt": 0.6457,
+      "equity_wt": 0.6458,
       "ts_gate": false,
       "spy_wt": 0.5733,
       "daily_return": 0.0014,
       "cumulative_return": 0.1524,
-      "spy_cumulative_return": 0.095171,
+      "spy_cumulative_return": 0.095172,
       "formula_version": "v3-costs"
     },
     {
@@ -1879,7 +1879,7 @@
       "vrp_z": 0.8609,
       "ts_z": -1.8802,
       "overnight_z": -0.1667,
-      "equity_wt": 0.5638,
+      "equity_wt": 0.5639,
       "ts_gate": false,
       "spy_wt": 0.5733,
       "daily_return": 0.0035,
@@ -1892,7 +1892,7 @@
       "vrp_z": 0.8933,
       "ts_z": -1.7501,
       "overnight_z": -0.1523,
-      "equity_wt": 0.571,
+      "equity_wt": 0.5711,
       "ts_gate": false,
       "spy_wt": 0.5733,
       "daily_return": 0.0017,
@@ -1905,12 +1905,12 @@
       "vrp_z": 1.0057,
       "ts_z": -1.3631,
       "overnight_z": -0.1257,
-      "equity_wt": 0.5948,
+      "equity_wt": 0.5949,
       "ts_gate": false,
       "spy_wt": 0.5733,
       "daily_return": -0.0035,
       "cumulative_return": 0.162,
-      "spy_cumulative_return": 0.103527,
+      "spy_cumulative_return": 0.103528,
       "formula_version": "v3-costs"
     },
     {
@@ -1975,7 +1975,7 @@
       "spy_wt": 0.5566,
       "daily_return": 0.0074,
       "cumulative_return": 0.161,
-      "spy_cumulative_return": 0.105493,
+      "spy_cumulative_return": 0.105494,
       "formula_version": "v3-costs"
     },
     {
@@ -2027,7 +2027,7 @@
       "spy_wt": 0.5566,
       "daily_return": 0.0019,
       "cumulative_return": 0.1634,
-      "spy_cumulative_return": 0.113429,
+      "spy_cumulative_return": 0.113428,
       "formula_version": "v3-costs"
     },
     {
@@ -2071,7 +2071,7 @@
     },
     {
       "date": "2019-12-18",
-      "vrp_z": 0.4737,
+      "vrp_z": 0.4736,
       "ts_z": -1.1123,
       "overnight_z": 0.1314,
       "equity_wt": 0.5013,
@@ -2079,7 +2079,7 @@
       "spy_wt": 0.5566,
       "daily_return": -0.0016,
       "cumulative_return": 0.1725,
-      "spy_cumulative_return": 0.122066,
+      "spy_cumulative_return": 0.122065,
       "formula_version": "v3-costs"
     },
     {
@@ -2112,7 +2112,7 @@
       "date": "2019-12-23",
       "vrp_z": 0.5278,
       "ts_z": -1.3069,
-      "overnight_z": 0.1037,
+      "overnight_z": 0.1038,
       "equity_wt": 0.5108,
       "ts_gate": false,
       "spy_wt": 0.5566,
@@ -2123,7 +2123,7 @@
     },
     {
       "date": "2019-12-24",
-      "vrp_z": 0.5458,
+      "vrp_z": 0.5457,
       "ts_z": -1.3016,
       "overnight_z": 0.0833,
       "equity_wt": 0.5133,
@@ -2144,7 +2144,7 @@
       "spy_wt": 0.5566,
       "daily_return": 0.0067,
       "cumulative_return": 0.1951,
-      "spy_cumulative_return": 0.139402,
+      "spy_cumulative_return": 0.139401,
       "formula_version": "v3-costs"
     },
     {
@@ -2248,7 +2248,7 @@
       "spy_wt": 0.5566,
       "daily_return": 0.0014,
       "cumulative_return": 0.2053,
-      "spy_cumulative_return": 0.144729,
+      "spy_cumulative_return": 0.14473,
       "formula_version": "v3-costs"
     },
     {
@@ -2274,7 +2274,7 @@
       "spy_wt": 0.5566,
       "daily_return": -0.0002,
       "cumulative_return": 0.2112,
-      "spy_cumulative_return": 0.149175,
+      "spy_cumulative_return": 0.149174,
       "formula_version": "v3-costs"
     },
     {
@@ -2344,7 +2344,7 @@
     },
     {
       "date": "2020-01-21",
-      "vrp_z": 0.5886,
+      "vrp_z": 0.5887,
       "ts_z": -0.5009,
       "overnight_z": -0.6098,
       "equity_wt": 0.4872,
@@ -2365,7 +2365,7 @@
       "spy_wt": 0.5566,
       "daily_return": 0.0009,
       "cumulative_return": 0.2325,
-      "spy_cumulative_return": 0.169039,
+      "spy_cumulative_return": 0.169038,
       "formula_version": "v3-costs"
     },
     {
@@ -2383,7 +2383,7 @@
     },
     {
       "date": "2020-01-24",
-      "vrp_z": 0.8296,
+      "vrp_z": 0.8297,
       "ts_z": 0.2276,
       "overnight_z": -0.4232,
       "equity_wt": 0.5448,
@@ -2435,7 +2435,7 @@
     },
     {
       "date": "2020-01-30",
-      "vrp_z": 0.4259,
+      "vrp_z": 0.426,
       "ts_z": 0.6933,
       "overnight_z": -1.3657,
       "equity_wt": 0.4169,
@@ -2495,7 +2495,7 @@
       "spy_wt": 0.2594,
       "daily_return": 0.002,
       "cumulative_return": 0.2166,
-      "spy_cumulative_return": 0.174402,
+      "spy_cumulative_return": 0.174401,
       "formula_version": "v3-costs"
     },
     {
@@ -2534,12 +2534,12 @@
       "spy_wt": 0.2594,
       "daily_return": 0.0082,
       "cumulative_return": 0.2364,
-      "spy_cumulative_return": 0.180823,
+      "spy_cumulative_return": 0.180822,
       "formula_version": "v3-costs"
     },
     {
       "date": "2020-02-11",
-      "vrp_z": -0.5527,
+      "vrp_z": -0.5528,
       "ts_z": 0.7726,
       "overnight_z": 0.0373,
       "equity_wt": 0.2913,
@@ -2656,7 +2656,7 @@
     },
     {
       "date": "2020-02-25",
-      "vrp_z": 0.9772,
+      "vrp_z": 0.9771,
       "ts_z": 4.2014,
       "overnight_z": 0.0464,
       "equity_wt": 0.2989,
@@ -2737,9 +2737,9 @@
       "vrp_z": -1.5781,
       "ts_z": 3.1096,
       "overnight_z": -0.6777,
-      "equity_wt": 0.0253,
+      "equity_wt": 0.0252,
       "ts_gate": true,
-      "spy_wt": 0.0253,
+      "spy_wt": 0.0252,
       "daily_return": 0.0169,
       "cumulative_return": 0.2475,
       "spy_cumulative_return": 0.103837,
@@ -2747,7 +2747,7 @@
     },
     {
       "date": "2020-03-05",
-      "vrp_z": 0.1933,
+      "vrp_z": 0.1932,
       "ts_z": 3.6412,
       "overnight_z": -1.3608,
       "equity_wt": 0.1853,
@@ -2768,7 +2768,7 @@
       "spy_wt": 0.1853,
       "daily_return": 0.0072,
       "cumulative_return": 0.268,
-      "spy_cumulative_return": 0.049502,
+      "spy_cumulative_return": 0.049503,
       "formula_version": "v3-costs"
     },
     {
@@ -2786,7 +2786,7 @@
     },
     {
       "date": "2020-03-10",
-      "vrp_z": -1.2704,
+      "vrp_z": -1.2705,
       "ts_z": 3.1631,
       "overnight_z": -3.6648,
       "equity_wt": 0.0,
@@ -2794,12 +2794,12 @@
       "spy_wt": 0.0,
       "daily_return": -0.0012,
       "cumulative_return": 0.2359,
-      "spy_cumulative_return": 0.017607,
+      "spy_cumulative_return": 0.017608,
       "formula_version": "v3-costs"
     },
     {
       "date": "2020-03-11",
-      "vrp_z": -0.004,
+      "vrp_z": -0.0041,
       "ts_z": 3.2471,
       "overnight_z": -3.3501,
       "equity_wt": 0.1158,
@@ -2812,7 +2812,7 @@
     },
     {
       "date": "2020-03-12",
-      "vrp_z": 3.3549,
+      "vrp_z": 3.3548,
       "ts_z": 4.1795,
       "overnight_z": -4.2044,
       "equity_wt": 0.4304,
@@ -2833,7 +2833,7 @@
       "spy_wt": 0.0,
       "daily_return": 0.0292,
       "cumulative_return": 0.2001,
-      "spy_cumulative_return": -0.049781,
+      "spy_cumulative_return": -0.049782,
       "formula_version": "v3-costs"
     },
     {
@@ -2864,7 +2864,7 @@
     },
     {
       "date": "2020-03-18",
-      "vrp_z": -2.0947,
+      "vrp_z": -2.0948,
       "ts_z": 1.2847,
       "overnight_z": -6.0496,
       "equity_wt": 0.0,
@@ -2872,12 +2872,12 @@
       "spy_wt": 0.0,
       "daily_return": -0.0216,
       "cumulative_return": 0.1749,
-      "spy_cumulative_return": -0.153228,
+      "spy_cumulative_return": -0.153229,
       "formula_version": "v3-costs"
     },
     {
       "date": "2020-03-19",
-      "vrp_z": -3.1299,
+      "vrp_z": -3.13,
       "ts_z": 1.1669,
       "overnight_z": -5.7797,
       "equity_wt": 0.0,
@@ -2890,7 +2890,7 @@
     },
     {
       "date": "2020-03-20",
-      "vrp_z": -4.5089,
+      "vrp_z": -4.509,
       "ts_z": 0.8726,
       "overnight_z": -4.3651,
       "equity_wt": 0.0,
@@ -2905,7 +2905,7 @@
       "date": "2020-03-23",
       "vrp_z": -5.2359,
       "ts_z": 1.6431,
-      "overnight_z": -3.9106,
+      "overnight_z": -3.9107,
       "equity_wt": 0.0,
       "ts_gate": true,
       "spy_wt": 0.0,
@@ -2942,7 +2942,7 @@
     },
     {
       "date": "2020-03-26",
-      "vrp_z": -6.1291,
+      "vrp_z": -6.1292,
       "ts_z": 2.824,
       "overnight_z": -4.2383,
       "equity_wt": 0.0,
@@ -2955,7 +2955,7 @@
     },
     {
       "date": "2020-03-27",
-      "vrp_z": -4.9226,
+      "vrp_z": -4.9227,
       "ts_z": 2.3277,
       "overnight_z": -4.5727,
       "equity_wt": 0.0,
@@ -2976,7 +2976,7 @@
       "spy_wt": 0.0,
       "daily_return": 0.003,
       "cumulative_return": 0.2662,
-      "spy_cumulative_return": -0.071414,
+      "spy_cumulative_return": -0.071415,
       "formula_version": "v3-costs"
     },
     {
@@ -3171,7 +3171,7 @@
       "spy_wt": 0.1076,
       "daily_return": -0.0031,
       "cumulative_return": 0.2838,
-      "spy_cumulative_return": -0.030991,
+      "spy_cumulative_return": -0.030992,
       "formula_version": "v3-costs"
     },
     {
@@ -3418,7 +3418,7 @@
       "spy_wt": 0.4818,
       "daily_return": 0.0158,
       "cumulative_return": 0.3329,
-      "spy_cumulative_return": 0.046944,
+      "spy_cumulative_return": 0.046943,
       "formula_version": "v3-costs"
     },
     {
@@ -3574,7 +3574,7 @@
       "spy_wt": 0.4818,
       "daily_return": -0.0011,
       "cumulative_return": 0.3635,
-      "spy_cumulative_return": 0.105004,
+      "spy_cumulative_return": 0.105005,
       "formula_version": "v3-costs"
     },
     {
@@ -3587,7 +3587,7 @@
       "spy_wt": 0.4818,
       "daily_return": 0.0074,
       "cumulative_return": 0.3736,
-      "spy_cumulative_return": 0.133326,
+      "spy_cumulative_return": 0.133325,
       "formula_version": "v3-costs"
     },
     {
@@ -3665,7 +3665,7 @@
       "spy_wt": 0.6226,
       "daily_return": 0.0054,
       "cumulative_return": 0.3648,
-      "spy_cumulative_return": 0.089709,
+      "spy_cumulative_return": 0.089708,
       "formula_version": "v3-costs"
     },
     {
@@ -3683,7 +3683,7 @@
     },
     {
       "date": "2020-06-17",
-      "vrp_z": 0.5046,
+      "vrp_z": 0.5047,
       "ts_z": 0.0208,
       "overnight_z": 1.0448,
       "equity_wt": 0.5532,
@@ -3717,7 +3717,7 @@
       "spy_wt": 0.6226,
       "daily_return": -0.0022,
       "cumulative_return": 0.3753,
-      "spy_cumulative_return": 0.100171,
+      "spy_cumulative_return": 0.100172,
       "formula_version": "v3-costs"
     },
     {
@@ -3730,7 +3730,7 @@
       "spy_wt": 0.6226,
       "daily_return": 0.0045,
       "cumulative_return": 0.3815,
-      "spy_cumulative_return": 0.10723,
+      "spy_cumulative_return": 0.107229,
       "formula_version": "v3-costs"
     },
     {
@@ -3808,7 +3808,7 @@
       "spy_wt": 0.5004,
       "daily_return": 0.0064,
       "cumulative_return": 0.379,
-      "spy_cumulative_return": 0.099174,
+      "spy_cumulative_return": 0.099173,
       "formula_version": "v3-costs"
     },
     {
@@ -3834,7 +3834,7 @@
       "spy_wt": 0.5004,
       "daily_return": 0.0035,
       "cumulative_return": 0.387,
-      "spy_cumulative_return": 0.112968,
+      "spy_cumulative_return": 0.112969,
       "formula_version": "v3-costs"
     },
     {
@@ -3860,7 +3860,7 @@
       "spy_wt": 0.5004,
       "daily_return": -0.0031,
       "cumulative_return": 0.3939,
-      "spy_cumulative_return": 0.118494,
+      "spy_cumulative_return": 0.118493,
       "formula_version": "v3-costs"
     },
     {
@@ -3873,7 +3873,7 @@
       "spy_wt": 0.4296,
       "daily_return": 0.0038,
       "cumulative_return": 0.3992,
-      "spy_cumulative_return": 0.127049,
+      "spy_cumulative_return": 0.127048,
       "formula_version": "v3-costs"
     },
     {
@@ -3899,7 +3899,7 @@
       "spy_wt": 0.4133,
       "daily_return": 0.0029,
       "cumulative_return": 0.4032,
-      "spy_cumulative_return": 0.132074,
+      "spy_cumulative_return": 0.132075,
       "formula_version": "v3-costs"
     },
     {
@@ -3925,7 +3925,7 @@
       "spy_wt": 0.6761,
       "daily_return": 0.0092,
       "cumulative_return": 0.4086,
-      "spy_cumulative_return": 0.136816,
+      "spy_cumulative_return": 0.136815,
       "formula_version": "v3-costs"
     },
     {
@@ -4073,7 +4073,7 @@
     },
     {
       "date": "2020-07-30",
-      "vrp_z": 0.9789,
+      "vrp_z": 0.9788,
       "ts_z": -0.9319,
       "overnight_z": 0.0795,
       "equity_wt": 0.5997,
@@ -4081,7 +4081,7 @@
       "spy_wt": 0.5635,
       "daily_return": -0.0026,
       "cumulative_return": 0.4423,
-      "spy_cumulative_return": 0.15478,
+      "spy_cumulative_return": 0.154781,
       "formula_version": "v3-costs"
     },
     {
@@ -4153,7 +4153,7 @@
       "date": "2020-08-07",
       "vrp_z": 0.908,
       "ts_z": -1.2995,
-      "overnight_z": -0.5093,
+      "overnight_z": -0.5092,
       "equity_wt": 0.5561,
       "ts_gate": false,
       "spy_wt": 0.5561,
@@ -4249,7 +4249,7 @@
       "ts_gate": false,
       "spy_wt": 0.5542,
       "daily_return": 0.0052,
-      "cumulative_return": 0.4637,
+      "cumulative_return": 0.4636,
       "spy_cumulative_return": 0.207109,
       "formula_version": "v3-costs"
     },
@@ -4302,7 +4302,7 @@
       "spy_wt": 0.5751,
       "daily_return": 0.005,
       "cumulative_return": 0.4629,
-      "spy_cumulative_return": 0.222365,
+      "spy_cumulative_return": 0.222366,
       "formula_version": "v3-costs"
     },
     {
@@ -4549,7 +4549,7 @@
       "spy_wt": 0.5031,
       "daily_return": -0.012,
       "cumulative_return": 0.4111,
-      "spy_cumulative_return": 0.170176,
+      "spy_cumulative_return": 0.170175,
       "formula_version": "v3-costs"
     },
     {
@@ -4601,7 +4601,7 @@
       "spy_wt": 0.5015,
       "daily_return": 0.0077,
       "cumulative_return": 0.4012,
-      "spy_cumulative_return": 0.176475,
+      "spy_cumulative_return": 0.176474,
       "formula_version": "v3-costs"
     },
     {
@@ -4749,7 +4749,7 @@
     },
     {
       "date": "2020-10-13",
-      "vrp_z": 0.3834,
+      "vrp_z": 0.3833,
       "ts_z": 0.0228,
       "overnight_z": 0.1421,
       "equity_wt": 0.4838,
@@ -4770,7 +4770,7 @@
       "spy_wt": 0.5139,
       "daily_return": -0.0045,
       "cumulative_return": 0.449,
-      "spy_cumulative_return": 0.245189,
+      "spy_cumulative_return": 0.245188,
       "formula_version": "v3-costs"
     },
     {
@@ -4783,7 +4783,7 @@
       "spy_wt": 0.5139,
       "daily_return": -0.0023,
       "cumulative_return": 0.4456,
-      "spy_cumulative_return": 0.24365,
+      "spy_cumulative_return": 0.243649,
       "formula_version": "v3-costs"
     },
     {
@@ -4834,8 +4834,8 @@
       "ts_gate": false,
       "spy_wt": 0.558,
       "daily_return": 0.001,
-      "cumulative_return": 0.4377,
-      "spy_cumulative_return": 0.226579,
+      "cumulative_return": 0.4376,
+      "spy_cumulative_return": 0.226578,
       "formula_version": "v3-costs"
     },
     {
@@ -4939,7 +4939,7 @@
       "spy_wt": 0.3527,
       "daily_return": 0.0067,
       "cumulative_return": 0.3934,
-      "spy_cumulative_return": 0.181736,
+      "spy_cumulative_return": 0.181735,
       "formula_version": "v3-costs"
     },
     {
@@ -4983,7 +4983,7 @@
     },
     {
       "date": "2020-11-06",
-      "vrp_z": 0.0108,
+      "vrp_z": 0.0107,
       "ts_z": -0.1749,
       "overnight_z": 0.6221,
       "equity_wt": 0.4333,
@@ -5004,7 +5004,7 @@
       "spy_wt": 0.5085,
       "daily_return": -0.005,
       "cumulative_return": 0.4322,
-      "spy_cumulative_return": 0.268917,
+      "spy_cumulative_return": 0.268916,
       "formula_version": "v3-costs"
     },
     {
@@ -5037,7 +5037,7 @@
       "date": "2020-11-12",
       "vrp_z": 0.0808,
       "ts_z": 0.0078,
-      "overnight_z": 1.1693,
+      "overnight_z": 1.1694,
       "equity_wt": 0.4746,
       "ts_gate": false,
       "spy_wt": 0.4494,
@@ -5178,7 +5178,7 @@
     },
     {
       "date": "2020-11-30",
-      "vrp_z": 0.1062,
+      "vrp_z": 0.1061,
       "ts_z": -0.7894,
       "overnight_z": 1.1366,
       "equity_wt": 0.4781,
@@ -5212,7 +5212,7 @@
       "spy_wt": 0.4819,
       "daily_return": 0.0012,
       "cumulative_return": 0.455,
-      "spy_cumulative_return": 0.312686,
+      "spy_cumulative_return": 0.312685,
       "formula_version": "v3-costs"
     },
     {
@@ -5316,7 +5316,7 @@
       "spy_wt": 0.5167,
       "daily_return": -0.0035,
       "cumulative_return": 0.4554,
-      "spy_cumulative_return": 0.305063,
+      "spy_cumulative_return": 0.305062,
       "formula_version": "v3-costs"
     },
     {
@@ -5373,7 +5373,7 @@
     },
     {
       "date": "2020-12-21",
-      "vrp_z": 0.985,
+      "vrp_z": 0.9849,
       "ts_z": -0.2043,
       "overnight_z": -0.0917,
       "equity_wt": 0.5924,
@@ -5388,13 +5388,13 @@
       "date": "2020-12-22",
       "vrp_z": 0.9344,
       "ts_z": -0.4163,
-      "overnight_z": -0.1088,
+      "overnight_z": -0.1089,
       "equity_wt": 0.5814,
       "ts_gate": false,
       "spy_wt": 0.5924,
       "daily_return": -0.0031,
       "cumulative_return": 0.4684,
-      "spy_cumulative_return": 0.319899,
+      "spy_cumulative_return": 0.319898,
       "formula_version": "v3-costs"
     },
     {
@@ -5407,7 +5407,7 @@
       "spy_wt": 0.5672,
       "daily_return": 0.0024,
       "cumulative_return": 0.4718,
-      "spy_cumulative_return": 0.321084,
+      "spy_cumulative_return": 0.321085,
       "formula_version": "v3-costs"
     },
     {
@@ -5438,7 +5438,7 @@
     },
     {
       "date": "2020-12-29",
-      "vrp_z": 0.9194,
+      "vrp_z": 0.9193,
       "ts_z": -0.5092,
       "overnight_z": 0.0116,
       "equity_wt": 0.5844,
@@ -5446,7 +5446,7 @@
       "spy_wt": 0.5672,
       "daily_return": 0.0018,
       "cumulative_return": 0.4853,
-      "spy_cumulative_return": 0.335066,
+      "spy_cumulative_return": 0.335065,
       "formula_version": "v3-costs"
     },
     {
@@ -5464,7 +5464,7 @@
     },
     {
       "date": "2020-12-31",
-      "vrp_z": 0.9505,
+      "vrp_z": 0.9504,
       "ts_z": -0.329,
       "overnight_z": -0.1034,
       "equity_wt": 0.5849,
@@ -5524,7 +5524,7 @@
       "spy_wt": 0.5383,
       "daily_return": 0.0058,
       "cumulative_return": 0.5122,
-      "spy_cumulative_return": 0.362525,
+      "spy_cumulative_return": 0.362524,
       "formula_version": "v3-costs"
     },
     {
@@ -5576,7 +5576,7 @@
       "spy_wt": 0.5383,
       "daily_return": 0.0004,
       "cumulative_return": 0.5064,
-      "spy_cumulative_return": 0.365004,
+      "spy_cumulative_return": 0.365005,
       "formula_version": "v3-costs"
     },
     {
@@ -5724,7 +5724,7 @@
     },
     {
       "date": "2021-02-01",
-      "vrp_z": 0.7635,
+      "vrp_z": 0.7636,
       "ts_z": -0.0683,
       "overnight_z": -0.0057,
       "equity_wt": 0.5524,
@@ -5732,12 +5732,12 @@
       "spy_wt": 0.5983,
       "daily_return": 0.0148,
       "cumulative_return": 0.4964,
-      "spy_cumulative_return": 0.352209,
+      "spy_cumulative_return": 0.35221,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-02-02",
-      "vrp_z": 0.3432,
+      "vrp_z": 0.3433,
       "ts_z": -0.6035,
       "overnight_z": 0.0989,
       "equity_wt": 0.4736,
@@ -5784,7 +5784,7 @@
       "spy_wt": 0.4736,
       "daily_return": 0.0071,
       "cumulative_return": 0.525,
-      "spy_cumulative_return": 0.39347,
+      "spy_cumulative_return": 0.393469,
       "formula_version": "v3-costs"
     },
     {
@@ -5914,7 +5914,7 @@
       "spy_wt": 0.4736,
       "daily_return": 0.0001,
       "cumulative_return": 0.5371,
-      "spy_cumulative_return": 0.391026,
+      "spy_cumulative_return": 0.391025,
       "formula_version": "v3-costs"
     },
     {
@@ -5947,13 +5947,13 @@
       "date": "2021-02-25",
       "vrp_z": 0.5588,
       "ts_z": 0.2599,
-      "overnight_z": -0.0669,
+      "overnight_z": -0.0668,
       "equity_wt": 0.5084,
       "ts_gate": false,
       "spy_wt": 0.4736,
       "daily_return": -0.0204,
       "cumulative_return": 0.5189,
-      "spy_cumulative_return": 0.374133,
+      "spy_cumulative_return": 0.374134,
       "formula_version": "v3-costs"
     },
     {
@@ -5979,7 +5979,7 @@
       "spy_wt": 0.4736,
       "daily_return": 0.0161,
       "cumulative_return": 0.5188,
-      "spy_cumulative_return": 0.400191,
+      "spy_cumulative_return": 0.40019,
       "formula_version": "v3-costs"
     },
     {
@@ -6018,7 +6018,7 @@
       "spy_wt": 0.4736,
       "daily_return": -0.0079,
       "cumulative_return": 0.4897,
-      "spy_cumulative_return": 0.353898,
+      "spy_cumulative_return": 0.353899,
       "formula_version": "v3-costs"
     },
     {
@@ -6070,7 +6070,7 @@
       "spy_wt": 0.4736,
       "daily_return": 0.0059,
       "cumulative_return": 0.5215,
-      "spy_cumulative_return": 0.400191,
+      "spy_cumulative_return": 0.40019,
       "formula_version": "v3-costs"
     },
     {
@@ -6109,7 +6109,7 @@
       "spy_wt": 0.4736,
       "daily_return": 0.003,
       "cumulative_return": 0.5439,
-      "spy_cumulative_return": 0.424739,
+      "spy_cumulative_return": 0.424738,
       "formula_version": "v3-costs"
     },
     {
@@ -6148,7 +6148,7 @@
       "spy_wt": 0.3626,
       "daily_return": -0.0176,
       "cumulative_return": 0.5233,
-      "spy_cumulative_return": 0.407019,
+      "spy_cumulative_return": 0.40702,
       "formula_version": "v3-costs"
     },
     {
@@ -6173,7 +6173,7 @@
       "ts_gate": false,
       "spy_wt": 0.3626,
       "daily_return": 0.0024,
-      "cumulative_return": 0.5307,
+      "cumulative_return": 0.5306,
       "spy_cumulative_return": 0.41563,
       "formula_version": "v3-costs"
     },
@@ -6225,7 +6225,7 @@
       "ts_gate": false,
       "spy_wt": 0.3626,
       "daily_return": 0.0116,
-      "cumulative_return": 0.5318,
+      "cumulative_return": 0.5317,
       "spy_cumulative_return": 0.427854,
       "formula_version": "v3-costs"
     },
@@ -6270,7 +6270,7 @@
     },
     {
       "date": "2021-04-01",
-      "vrp_z": -0.1692,
+      "vrp_z": -0.1691,
       "ts_z": -0.9873,
       "overnight_z": -0.5814,
       "equity_wt": 0.3371,
@@ -6363,13 +6363,13 @@
       "date": "2021-04-13",
       "vrp_z": -0.1564,
       "ts_z": -1.3422,
-      "overnight_z": -1.953,
+      "overnight_z": -1.9529,
       "equity_wt": 0.2711,
       "ts_gate": false,
       "spy_wt": 0.3626,
       "daily_return": 0.0045,
-      "cumulative_return": 0.5681,
-      "spy_cumulative_return": 0.488721,
+      "cumulative_return": 0.568,
+      "spy_cumulative_return": 0.488722,
       "formula_version": "v3-costs"
     },
     {
@@ -6407,8 +6407,8 @@
       "ts_gate": false,
       "spy_wt": 0.2432,
       "daily_return": 0.0034,
-      "cumulative_return": 0.5872,
-      "spy_cumulative_return": 0.504588,
+      "cumulative_return": 0.5871,
+      "spy_cumulative_return": 0.504587,
       "formula_version": "v3-costs"
     },
     {
@@ -6452,7 +6452,7 @@
     },
     {
       "date": "2021-04-22",
-      "vrp_z": 0.0986,
+      "vrp_z": 0.0987,
       "ts_z": -0.8436,
       "overnight_z": -1.6583,
       "equity_wt": 0.3368,
@@ -6517,7 +6517,7 @@
     },
     {
       "date": "2021-04-29",
-      "vrp_z": 0.0532,
+      "vrp_z": 0.0533,
       "ts_z": -0.877,
       "overnight_z": -1.0409,
       "equity_wt": 0.3586,
@@ -6538,12 +6538,12 @@
       "spy_wt": 0.3531,
       "daily_return": -0.0063,
       "cumulative_return": 0.5867,
-      "spy_cumulative_return": 0.504731,
+      "spy_cumulative_return": 0.504732,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-05-03",
-      "vrp_z": 0.1665,
+      "vrp_z": 0.1666,
       "ts_z": -0.6041,
       "overnight_z": -0.9323,
       "equity_wt": 0.3867,
@@ -6564,7 +6564,7 @@
       "spy_wt": 0.4588,
       "daily_return": -0.0063,
       "cumulative_return": 0.586,
-      "spy_cumulative_return": 0.498673,
+      "spy_cumulative_return": 0.498674,
       "formula_version": "v3-costs"
     },
     {
@@ -6585,7 +6585,7 @@
       "vrp_z": 0.2434,
       "ts_z": -0.6181,
       "overnight_z": -0.8946,
-      "equity_wt": 0.4039,
+      "equity_wt": 0.404,
       "ts_gate": false,
       "spy_wt": 0.4588,
       "daily_return": 0.0048,
@@ -6603,7 +6603,7 @@
       "spy_wt": 0.3183,
       "daily_return": 0.0108,
       "cumulative_return": 0.6208,
-      "spy_cumulative_return": 0.522111,
+      "spy_cumulative_return": 0.522112,
       "formula_version": "v3-costs"
     },
     {
@@ -6616,7 +6616,7 @@
       "spy_wt": 0.4437,
       "daily_return": -0.0042,
       "cumulative_return": 0.614,
-      "spy_cumulative_return": 0.507039,
+      "spy_cumulative_return": 0.50704,
       "formula_version": "v3-costs"
     },
     {
@@ -6642,7 +6642,7 @@
       "spy_wt": 0.3309,
       "daily_return": -0.0193,
       "cumulative_return": 0.5696,
-      "spy_cumulative_return": 0.461857,
+      "spy_cumulative_return": 0.461858,
       "formula_version": "v3-costs"
     },
     {
@@ -6720,7 +6720,7 @@
       "spy_wt": 0.3242,
       "daily_return": 0.0082,
       "cumulative_return": 0.608,
-      "spy_cumulative_return": 0.497447,
+      "spy_cumulative_return": 0.497448,
       "formula_version": "v3-costs"
     },
     {
@@ -6733,7 +6733,7 @@
       "spy_wt": 0.3242,
       "daily_return": 0.0011,
       "cumulative_return": 0.6097,
-      "spy_cumulative_return": 0.496221,
+      "spy_cumulative_return": 0.496222,
       "formula_version": "v3-costs"
     },
     {
@@ -6832,7 +6832,7 @@
       "vrp_z": -0.7146,
       "ts_z": -0.7726,
       "overnight_z": -0.3926,
-      "equity_wt": 0.2375,
+      "equity_wt": 0.2374,
       "ts_gate": false,
       "spy_wt": 0.2106,
       "daily_return": -0.0088,
@@ -6920,7 +6920,7 @@
     },
     {
       "date": "2021-06-14",
-      "vrp_z": -0.0307,
+      "vrp_z": -0.0306,
       "ts_z": -0.9366,
       "overnight_z": -0.0389,
       "equity_wt": 0.3919,
@@ -7076,7 +7076,7 @@
     },
     {
       "date": "2021-06-30",
-      "vrp_z": -0.1707,
+      "vrp_z": -0.1708,
       "ts_z": -0.9214,
       "overnight_z": -0.5002,
       "equity_wt": 0.3408,
@@ -7089,7 +7089,7 @@
     },
     {
       "date": "2021-07-01",
-      "vrp_z": -0.2846,
+      "vrp_z": -0.2847,
       "ts_z": -1.1817,
       "overnight_z": -0.5793,
       "equity_wt": 0.3141,
@@ -7097,7 +7097,7 @@
       "spy_wt": 0.3626,
       "daily_return": 0.006,
       "cumulative_return": 0.6347,
-      "spy_cumulative_return": 0.557154,
+      "spy_cumulative_return": 0.557155,
       "formula_version": "v3-costs"
     },
     {
@@ -7110,7 +7110,7 @@
       "spy_wt": 0.3626,
       "daily_return": 0.0095,
       "cumulative_return": 0.6502,
-      "spy_cumulative_return": 0.569056,
+      "spy_cumulative_return": 0.569057,
       "formula_version": "v3-costs"
     },
     {
@@ -7123,12 +7123,12 @@
       "spy_wt": 0.3626,
       "daily_return": -0.0029,
       "cumulative_return": 0.6454,
-      "spy_cumulative_return": 0.566199,
+      "spy_cumulative_return": 0.566198,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-07-07",
-      "vrp_z": -0.0911,
+      "vrp_z": -0.0912,
       "ts_z": -1.1903,
       "overnight_z": -0.3956,
       "equity_wt": 0.362,
@@ -7227,7 +7227,7 @@
       "spy_wt": 0.2617,
       "daily_return": -0.0053,
       "cumulative_return": 0.6466,
-      "spy_cumulative_return": 0.560447,
+      "spy_cumulative_return": 0.560446,
       "formula_version": "v3-costs"
     },
     {
@@ -7292,7 +7292,7 @@
       "spy_wt": 0.3459,
       "daily_return": 0.0049,
       "cumulative_return": 0.6713,
-      "spy_cumulative_return": 0.591558,
+      "spy_cumulative_return": 0.591559,
       "formula_version": "v3-costs"
     },
     {
@@ -7305,7 +7305,7 @@
       "spy_wt": 0.3459,
       "daily_return": 0.0005,
       "cumulative_return": 0.6721,
-      "spy_cumulative_return": 0.595465,
+      "spy_cumulative_return": 0.595466,
       "formula_version": "v3-costs"
     },
     {
@@ -7409,12 +7409,12 @@
       "spy_wt": 0.2293,
       "daily_return": 0.0011,
       "cumulative_return": 0.6699,
-      "spy_cumulative_return": 0.598143,
+      "spy_cumulative_return": 0.598142,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-08-06",
-      "vrp_z": -0.6663,
+      "vrp_z": -0.6664,
       "ts_z": -1.46,
       "overnight_z": -0.9171,
       "equity_wt": 0.2209,
@@ -7572,13 +7572,13 @@
       "date": "2021-08-24",
       "vrp_z": 0.3204,
       "ts_z": -0.835,
-      "overnight_z": -1.1174,
+      "overnight_z": -1.1175,
       "equity_wt": 0.4082,
       "ts_gate": false,
       "spy_wt": 0.4505,
       "daily_return": -0.0016,
       "cumulative_return": 0.6647,
-      "spy_cumulative_return": 0.620608,
+      "spy_cumulative_return": 0.620609,
       "formula_version": "v3-costs"
     },
     {
@@ -7637,7 +7637,7 @@
       "date": "2021-08-31",
       "vrp_z": 0.114,
       "ts_z": -0.9156,
-      "overnight_z": -1.3039,
+      "overnight_z": -1.3038,
       "equity_wt": 0.3576,
       "ts_gate": false,
       "spy_wt": 0.3417,
@@ -7682,7 +7682,7 @@
       "spy_wt": 0.3417,
       "daily_return": 0.0027,
       "cumulative_return": 0.6826,
-      "spy_cumulative_return": 0.639094,
+      "spy_cumulative_return": 0.639095,
       "formula_version": "v3-costs"
     },
     {
@@ -7942,12 +7942,12 @@
       "spy_wt": 0.2531,
       "daily_return": -0.0085,
       "cumulative_return": 0.6048,
-      "spy_cumulative_return": 0.555647,
+      "spy_cumulative_return": 0.555646,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-10-05",
-      "vrp_z": -0.347,
+      "vrp_z": -0.3471,
       "ts_z": 0.9631,
       "overnight_z": 1.1981,
       "equity_wt": 0.3905,
@@ -7960,7 +7960,7 @@
     },
     {
       "date": "2021-10-06",
-      "vrp_z": -0.4564,
+      "vrp_z": -0.4565,
       "ts_z": 0.9268,
       "overnight_z": 0.5961,
       "equity_wt": 0.3385,
@@ -7968,7 +7968,7 @@
       "spy_wt": 0.3905,
       "daily_return": 0.002,
       "cumulative_return": 0.6126,
-      "spy_cumulative_return": 0.578365,
+      "spy_cumulative_return": 0.578366,
       "formula_version": "v3-costs"
     },
     {
@@ -7986,7 +7986,7 @@
     },
     {
       "date": "2021-10-08",
-      "vrp_z": -1.1061,
+      "vrp_z": -1.1062,
       "ts_z": -0.0851,
       "overnight_z": 0.8746,
       "equity_wt": 0.2225,
@@ -7999,7 +7999,7 @@
     },
     {
       "date": "2021-10-11",
-      "vrp_z": -0.785,
+      "vrp_z": -0.7851,
       "ts_z": 0.4992,
       "overnight_z": 0.5456,
       "equity_wt": 0.2703,
@@ -8007,7 +8007,7 @@
       "spy_wt": 0.2555,
       "daily_return": -0.0019,
       "cumulative_return": 0.6127,
-      "spy_cumulative_return": 0.577604,
+      "spy_cumulative_return": 0.577603,
       "formula_version": "v3-costs"
     },
     {
@@ -8038,7 +8038,7 @@
     },
     {
       "date": "2021-10-14",
-      "vrp_z": -1.7626,
+      "vrp_z": -1.7627,
       "ts_z": -0.5757,
       "overnight_z": 0.3352,
       "equity_wt": 0.0642,
@@ -8090,7 +8090,7 @@
     },
     {
       "date": "2021-10-20",
-      "vrp_z": -1.7001,
+      "vrp_z": -1.7002,
       "ts_z": -1.3437,
       "overnight_z": -0.0576,
       "equity_wt": 0.0571,
@@ -8111,12 +8111,12 @@
       "spy_wt": 0.0642,
       "daily_return": -0.0,
       "cumulative_return": 0.6402,
-      "spy_cumulative_return": 0.646196,
+      "spy_cumulative_return": 0.646197,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-10-22",
-      "vrp_z": -1.5023,
+      "vrp_z": -1.5024,
       "ts_z": -1.4647,
       "overnight_z": -0.1767,
       "equity_wt": 0.0907,
@@ -8129,7 +8129,7 @@
     },
     {
       "date": "2021-10-25",
-      "vrp_z": -1.5522,
+      "vrp_z": -1.5523,
       "ts_z": -1.3202,
       "overnight_z": 0.0594,
       "equity_wt": 0.0925,
@@ -8202,12 +8202,12 @@
       "spy_wt": 0.2999,
       "daily_return": 0.0023,
       "cumulative_return": 0.67,
-      "spy_cumulative_return": 0.669605,
+      "spy_cumulative_return": 0.669606,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-11-02",
-      "vrp_z": 0.0158,
+      "vrp_z": 0.0157,
       "ts_z": -1.0376,
       "overnight_z": -0.8455,
       "equity_wt": 0.3609,
@@ -8220,7 +8220,7 @@
     },
     {
       "date": "2021-11-03",
-      "vrp_z": -0.1389,
+      "vrp_z": -0.139,
       "ts_z": -1.4991,
       "overnight_z": -0.9847,
       "equity_wt": 0.323,
@@ -8228,7 +8228,7 @@
       "spy_wt": 0.2999,
       "daily_return": -0.0052,
       "cumulative_return": 0.6616,
-      "spy_cumulative_return": 0.686591,
+      "spy_cumulative_return": 0.68659,
       "formula_version": "v3-costs"
     },
     {
@@ -8267,7 +8267,7 @@
       "spy_wt": 0.4296,
       "daily_return": -0.0019,
       "cumulative_return": 0.685,
-      "spy_cumulative_return": 0.701869,
+      "spy_cumulative_return": 0.70187,
       "formula_version": "v3-costs"
     },
     {
@@ -8287,7 +8287,7 @@
       "date": "2021-11-10",
       "vrp_z": 0.8168,
       "ts_z": 0.064,
-      "overnight_z": -0.6537,
+      "overnight_z": -0.6536,
       "equity_wt": 0.5307,
       "ts_gate": false,
       "spy_wt": 0.5312,
@@ -8306,7 +8306,7 @@
       "spy_wt": 0.5312,
       "daily_return": -0.0002,
       "cumulative_return": 0.6808,
-      "spy_cumulative_return": 0.683143,
+      "spy_cumulative_return": 0.683142,
       "formula_version": "v3-costs"
     },
     {
@@ -8352,7 +8352,7 @@
       "date": "2021-11-17",
       "vrp_z": 0.7984,
       "ts_z": -1.0836,
-      "overnight_z": -0.2779,
+      "overnight_z": -0.278,
       "equity_wt": 0.5458,
       "ts_gate": false,
       "spy_wt": 0.5312,
@@ -8366,7 +8366,7 @@
       "vrp_z": 0.9232,
       "ts_z": -0.8661,
       "overnight_z": -0.1819,
-      "equity_wt": 0.5756,
+      "equity_wt": 0.5755,
       "ts_gate": false,
       "spy_wt": 0.5312,
       "daily_return": 0.0046,
@@ -8423,12 +8423,12 @@
       "spy_wt": 0.6737,
       "daily_return": 0.001,
       "cumulative_return": 0.6857,
-      "spy_cumulative_return": 0.703721,
+      "spy_cumulative_return": 0.70372,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-11-26",
-      "vrp_z": 2.7638,
+      "vrp_z": 2.7639,
       "ts_z": 2.7491,
       "overnight_z": -0.6427,
       "equity_wt": 0.4603,
@@ -8454,7 +8454,7 @@
     },
     {
       "date": "2021-11-30",
-      "vrp_z": 1.7178,
+      "vrp_z": 1.7179,
       "ts_z": 2.4014,
       "overnight_z": 0.4682,
       "equity_wt": 0.3835,
@@ -8519,7 +8519,7 @@
     },
     {
       "date": "2021-12-07",
-      "vrp_z": -0.7312,
+      "vrp_z": -0.7311,
       "ts_z": 0.5543,
       "overnight_z": 2.198,
       "equity_wt": 0.3637,
@@ -8532,7 +8532,7 @@
     },
     {
       "date": "2021-12-08",
-      "vrp_z": -1.244,
+      "vrp_z": -1.2439,
       "ts_z": -0.1066,
       "overnight_z": 2.0239,
       "equity_wt": 0.2524,
@@ -8571,7 +8571,7 @@
     },
     {
       "date": "2021-12-13",
-      "vrp_z": -1.2367,
+      "vrp_z": -1.2366,
       "ts_z": -0.2278,
       "overnight_z": 1.9088,
       "equity_wt": 0.2481,
@@ -8579,12 +8579,12 @@
       "spy_wt": 0.2524,
       "daily_return": 0.0009,
       "cumulative_return": 0.658,
-      "spy_cumulative_return": 0.693305,
+      "spy_cumulative_return": 0.693304,
       "formula_version": "v3-costs"
     },
     {
       "date": "2021-12-14",
-      "vrp_z": -0.8151,
+      "vrp_z": -0.815,
       "ts_z": 0.3188,
       "overnight_z": 1.6767,
       "equity_wt": 0.3208,
@@ -8670,7 +8670,7 @@
       "spy_wt": 0.0,
       "daily_return": -0.0001,
       "cumulative_return": 0.6628,
-      "spy_cumulative_return": 0.703332,
+      "spy_cumulative_return": 0.703333,
       "formula_version": "v3-costs"
     },
     {
@@ -8682,7 +8682,7 @@
       "ts_gate": false,
       "spy_wt": 0.0,
       "daily_return": 0.0031,
-      "cumulative_return": 0.6679,
+      "cumulative_return": 0.6678,
       "spy_cumulative_return": 0.713931,
       "formula_version": "v3-costs"
     },
@@ -8714,7 +8714,7 @@
     },
     {
       "date": "2021-12-29",
-      "vrp_z": -2.2502,
+      "vrp_z": -2.2503,
       "ts_z": -1.2907,
       "overnight_z": 0.3468,
       "equity_wt": 0.0,
@@ -8805,7 +8805,7 @@
     },
     {
       "date": "2022-01-07",
-      "vrp_z": -0.9275,
+      "vrp_z": -0.9276,
       "ts_z": -0.4072,
       "overnight_z": -0.2743,
       "equity_wt": 0.2008,
@@ -8852,7 +8852,7 @@
       "spy_wt": 0.1724,
       "daily_return": -0.0012,
       "cumulative_return": 0.6519,
-      "spy_cumulative_return": 0.715461,
+      "spy_cumulative_return": 0.71546,
       "formula_version": "v3-costs"
     },
     {
@@ -8878,7 +8878,7 @@
       "spy_wt": 0.2769,
       "daily_return": 0.003,
       "cumulative_return": 0.6483,
-      "spy_cumulative_return": 0.692516,
+      "spy_cumulative_return": 0.692515,
       "formula_version": "v3-costs"
     },
     {
@@ -8896,7 +8896,7 @@
     },
     {
       "date": "2022-01-19",
-      "vrp_z": 0.4045,
+      "vrp_z": 0.4046,
       "ts_z": 1.6069,
       "overnight_z": -0.3053,
       "equity_wt": 0.2328,
@@ -8943,7 +8943,7 @@
       "spy_wt": 0.4041,
       "daily_return": -0.0,
       "cumulative_return": 0.6285,
-      "spy_cumulative_return": 0.601902,
+      "spy_cumulative_return": 0.601903,
       "formula_version": "v3-costs"
     },
     {
@@ -9008,7 +9008,7 @@
       "spy_wt": 0.2133,
       "daily_return": 0.0015,
       "cumulative_return": 0.6436,
-      "spy_cumulative_return": 0.638578,
+      "spy_cumulative_return": 0.638577,
       "formula_version": "v3-costs"
     },
     {
@@ -9125,7 +9125,7 @@
       "spy_wt": 0.1052,
       "daily_return": 0.0204,
       "cumulative_return": 0.6695,
-      "spy_cumulative_return": 0.60416,
+      "spy_cumulative_return": 0.604161,
       "formula_version": "v3-costs"
     },
     {
@@ -9171,7 +9171,7 @@
       "date": "2022-02-17",
       "vrp_z": -0.3017,
       "ts_z": 2.0143,
-      "overnight_z": -0.0857,
+      "overnight_z": -0.0858,
       "equity_wt": 0.1677,
       "ts_gate": true,
       "spy_wt": 0.1052,
@@ -9229,7 +9229,7 @@
       "spy_wt": 0.2782,
       "daily_return": 0.0113,
       "cumulative_return": 0.6787,
-      "spy_cumulative_return": 0.559873,
+      "spy_cumulative_return": 0.559874,
       "formula_version": "v3-costs"
     },
     {
@@ -9247,7 +9247,7 @@
     },
     {
       "date": "2022-02-28",
-      "vrp_z": -0.124,
+      "vrp_z": -0.1241,
       "ts_z": 2.838,
       "overnight_z": -3.526,
       "equity_wt": 0.0994,
@@ -9288,7 +9288,7 @@
       "date": "2022-03-03",
       "vrp_z": 0.2683,
       "ts_z": 2.2876,
-      "overnight_z": -1.5544,
+      "overnight_z": -1.5543,
       "equity_wt": 0.188,
       "ts_gate": true,
       "spy_wt": 0.229,
@@ -9325,9 +9325,9 @@
     },
     {
       "date": "2022-03-08",
-      "vrp_z": 1.3389,
+      "vrp_z": 1.3388,
       "ts_z": 2.4148,
-      "overnight_z": -0.4931,
+      "overnight_z": -0.493,
       "equity_wt": 0.3216,
       "ts_gate": true,
       "spy_wt": 0.3421,
@@ -9450,7 +9450,7 @@
       "spy_wt": 0.0368,
       "daily_return": 0.0086,
       "cumulative_return": 0.7338,
-      "spy_cumulative_return": 0.623501,
+      "spy_cumulative_return": 0.623502,
       "formula_version": "v3-costs"
     },
     {
@@ -9528,7 +9528,7 @@
       "spy_wt": 0.0368,
       "daily_return": 0.0011,
       "cumulative_return": 0.741,
-      "spy_cumulative_return": 0.686192,
+      "spy_cumulative_return": 0.686193,
       "formula_version": "v3-costs"
     },
     {
@@ -9567,7 +9567,7 @@
       "spy_wt": 0.0368,
       "daily_return": -0.0017,
       "cumulative_return": 0.7336,
-      "spy_cumulative_return": 0.654664,
+      "spy_cumulative_return": 0.654665,
       "formula_version": "v3-costs"
     },
     {
@@ -9684,7 +9684,7 @@
       "spy_wt": 0.2599,
       "daily_return": -0.0046,
       "cumulative_return": 0.7577,
-      "spy_cumulative_return": 0.59939,
+      "spy_cumulative_return": 0.599389,
       "formula_version": "v3-costs"
     },
     {
@@ -9801,7 +9801,7 @@
       "spy_wt": 0.3006,
       "daily_return": 0.0179,
       "cumulative_return": 0.7539,
-      "spy_cumulative_return": 0.562929,
+      "spy_cumulative_return": 0.56293,
       "formula_version": "v3-costs"
     },
     {
@@ -9871,7 +9871,7 @@
     },
     {
       "date": "2022-05-06",
-      "vrp_z": -1.2054,
+      "vrp_z": -1.2055,
       "ts_z": 1.0522,
       "overnight_z": 1.2007,
       "equity_wt": 0.1095,
@@ -9892,7 +9892,7 @@
       "spy_wt": 0.1884,
       "daily_return": -0.0084,
       "cumulative_return": 0.724,
-      "spy_cumulative_return": 0.454645,
+      "spy_cumulative_return": 0.454644,
       "formula_version": "v3-costs"
     },
     {
@@ -9923,7 +9923,7 @@
     },
     {
       "date": "2022-05-12",
-      "vrp_z": -1.1609,
+      "vrp_z": -1.161,
       "ts_z": 1.4107,
       "overnight_z": 1.595,
       "equity_wt": 0.1238,
@@ -9949,7 +9949,7 @@
     },
     {
       "date": "2022-05-16",
-      "vrp_z": -2.2887,
+      "vrp_z": -2.2888,
       "ts_z": 0.9594,
       "overnight_z": 1.3634,
       "equity_wt": 0.0104,
@@ -9962,7 +9962,7 @@
     },
     {
       "date": "2022-05-17",
-      "vrp_z": -2.7787,
+      "vrp_z": -2.7788,
       "ts_z": 0.7957,
       "overnight_z": 1.8186,
       "equity_wt": 0.0,
@@ -9983,7 +9983,7 @@
       "spy_wt": 0.0436,
       "daily_return": 0.0031,
       "cumulative_return": 0.7267,
-      "spy_cumulative_return": 0.431593,
+      "spy_cumulative_return": 0.431592,
       "formula_version": "v3-costs"
     },
     {
@@ -10079,9 +10079,9 @@
     },
     {
       "date": "2022-05-31",
-      "vrp_z": -2.1448,
+      "vrp_z": -2.1449,
       "ts_z": 0.9562,
-      "overnight_z": -1.0536,
+      "overnight_z": -1.0535,
       "equity_wt": 0.0,
       "ts_gate": false,
       "spy_wt": 0.0436,
@@ -10191,7 +10191,7 @@
       "spy_wt": 0.0436,
       "daily_return": -0.003,
       "cumulative_return": 0.7424,
-      "spy_cumulative_return": 0.424067,
+      "spy_cumulative_return": 0.424066,
       "formula_version": "v3-costs"
     },
     {
@@ -10256,7 +10256,7 @@
       "spy_wt": 0.0436,
       "daily_return": -0.0018,
       "cumulative_return": 0.7168,
-      "spy_cumulative_return": 0.342379,
+      "spy_cumulative_return": 0.34238,
       "formula_version": "v3-costs"
     },
     {
@@ -10281,7 +10281,7 @@
       "ts_gate": true,
       "spy_wt": 0.0436,
       "daily_return": 0.0015,
-      "cumulative_return": 0.7216,
+      "cumulative_return": 0.7215,
       "spy_cumulative_return": 0.373677,
       "formula_version": "v3-costs"
     },
@@ -10294,7 +10294,7 @@
       "ts_gate": true,
       "spy_wt": 0.0436,
       "daily_return": -0.0027,
-      "cumulative_return": 0.7169,
+      "cumulative_return": 0.7168,
       "spy_cumulative_return": 0.387143,
       "formula_version": "v3-costs"
     },
@@ -10365,7 +10365,7 @@
     },
     {
       "date": "2022-07-01",
-      "vrp_z": -1.5263,
+      "vrp_z": -1.5264,
       "ts_z": 0.7868,
       "overnight_z": -1.1794,
       "equity_wt": 0.0358,
@@ -10399,7 +10399,7 @@
       "spy_wt": 0.0436,
       "daily_return": -0.0097,
       "cumulative_return": 0.7105,
-      "spy_cumulative_return": 0.406186,
+      "spy_cumulative_return": 0.406185,
       "formula_version": "v3-costs"
     },
     {
@@ -10443,13 +10443,13 @@
     },
     {
       "date": "2022-07-12",
-      "vrp_z": -1.0129,
+      "vrp_z": -1.013,
       "ts_z": 0.9029,
       "overnight_z": -1.6899,
       "equity_wt": 0.1129,
       "ts_gate": false,
       "spy_wt": 0.0436,
-      "daily_return": -0.0048,
+      "daily_return": -0.0047,
       "cumulative_return": 0.7059,
       "spy_cumulative_return": 0.397306,
       "formula_version": "v3-costs"
@@ -10459,7 +10459,7 @@
       "vrp_z": -0.782,
       "ts_z": 0.785,
       "overnight_z": -2.207,
-      "equity_wt": 0.1333,
+      "equity_wt": 0.1332,
       "ts_gate": false,
       "spy_wt": 0.0436,
       "daily_return": 0.0068,
@@ -10477,7 +10477,7 @@
       "spy_wt": 0.2388,
       "daily_return": -0.0045,
       "cumulative_return": 0.7098,
-      "spy_cumulative_return": 0.386593,
+      "spy_cumulative_return": 0.386592,
       "formula_version": "v3-costs"
     },
     {
@@ -10516,7 +10516,7 @@
       "spy_wt": 0.2477,
       "daily_return": -0.0032,
       "cumulative_return": 0.7089,
-      "spy_cumulative_return": 0.439281,
+      "spy_cumulative_return": 0.43928,
       "formula_version": "v3-costs"
     },
     {
@@ -10620,7 +10620,7 @@
       "spy_wt": 0.2691,
       "daily_return": 0.0018,
       "cumulative_return": 0.7544,
-      "spy_cumulative_return": 0.511636,
+      "spy_cumulative_return": 0.511635,
       "formula_version": "v3-costs"
     },
     {
@@ -10724,7 +10724,7 @@
       "spy_wt": 0.2691,
       "daily_return": -0.0026,
       "cumulative_return": 0.7535,
-      "spy_cumulative_return": 0.540989,
+      "spy_cumulative_return": 0.540988,
       "formula_version": "v3-costs"
     },
     {
@@ -10737,7 +10737,7 @@
       "spy_wt": 0.2691,
       "daily_return": -0.0006,
       "cumulative_return": 0.7525,
-      "spy_cumulative_return": 0.540989,
+      "spy_cumulative_return": 0.540988,
       "formula_version": "v3-costs"
     },
     {
@@ -10776,7 +10776,7 @@
       "spy_wt": 0.2691,
       "daily_return": 0.0,
       "cumulative_return": 0.7665,
-      "spy_cumulative_return": 0.576616,
+      "spy_cumulative_return": 0.576615,
       "formula_version": "v3-costs"
     },
     {
@@ -10789,12 +10789,12 @@
       "spy_wt": 0.2691,
       "daily_return": -0.0054,
       "cumulative_return": 0.7571,
-      "spy_cumulative_return": 0.565424,
+      "spy_cumulative_return": 0.565425,
       "formula_version": "v3-costs"
     },
     {
       "date": "2022-08-18",
-      "vrp_z": -0.1926,
+      "vrp_z": -0.1925,
       "ts_z": -0.8358,
       "overnight_z": -1.1987,
       "equity_wt": 0.3016,
@@ -10802,7 +10802,7 @@
       "spy_wt": 0.2691,
       "daily_return": 0.0055,
       "cumulative_return": 0.7667,
-      "spy_cumulative_return": 0.569975,
+      "spy_cumulative_return": 0.569974,
       "formula_version": "v3-costs"
     },
     {
@@ -10828,7 +10828,7 @@
       "spy_wt": 0.3739,
       "daily_return": -0.0083,
       "cumulative_return": 0.7432,
-      "spy_cumulative_return": 0.516626,
+      "spy_cumulative_return": 0.516625,
       "formula_version": "v3-costs"
     },
     {
@@ -10932,7 +10932,7 @@
       "spy_wt": 0.2072,
       "daily_return": 0.0021,
       "cumulative_return": 0.7081,
-      "spy_cumulative_return": 0.454507,
+      "spy_cumulative_return": 0.454508,
       "formula_version": "v3-costs"
     },
     {
@@ -10971,7 +10971,7 @@
       "spy_wt": 0.436,
       "daily_return": 0.0058,
       "cumulative_return": 0.719,
-      "spy_cumulative_return": 0.459498,
+      "spy_cumulative_return": 0.459497,
       "formula_version": "v3-costs"
     },
     {
@@ -11087,7 +11087,7 @@
       "ts_gate": true,
       "spy_wt": 0.1693,
       "daily_return": -0.0045,
-      "cumulative_return": 0.6863,
+      "cumulative_return": 0.6862,
       "spy_cumulative_return": 0.415056,
       "formula_version": "v3-costs"
     },
@@ -11255,7 +11255,7 @@
       "equity_wt": 0.1772,
       "ts_gate": true,
       "spy_wt": 0.1041,
-      "daily_return": -0.0037,
+      "daily_return": -0.0038,
       "cumulative_return": 0.6732,
       "spy_cumulative_return": 0.336584,
       "formula_version": "v3-costs"
@@ -11366,7 +11366,7 @@
     },
     {
       "date": "2022-10-20",
-      "vrp_z": -0.3001,
+      "vrp_z": -0.3,
       "ts_z": 0.9434,
       "overnight_z": 0.9014,
       "equity_wt": 0.3851,
@@ -11379,7 +11379,7 @@
     },
     {
       "date": "2022-10-21",
-      "vrp_z": -0.5945,
+      "vrp_z": -0.5944,
       "ts_z": 0.9576,
       "overnight_z": 0.2531,
       "equity_wt": 0.2938,
@@ -11413,12 +11413,12 @@
       "spy_wt": 0.2369,
       "daily_return": 0.0038,
       "cumulative_return": 0.6729,
-      "spy_cumulative_return": 0.418115,
+      "spy_cumulative_return": 0.418114,
       "formula_version": "v3-costs"
     },
     {
       "date": "2022-10-26",
-      "vrp_z": -1.0338,
+      "vrp_z": -1.0337,
       "ts_z": 0.6997,
       "overnight_z": -0.8472,
       "equity_wt": 0.1509,
@@ -11431,7 +11431,7 @@
     },
     {
       "date": "2022-10-27",
-      "vrp_z": -0.8951,
+      "vrp_z": -0.895,
       "ts_z": 0.8447,
       "overnight_z": -0.3046,
       "equity_wt": 0.2058,
@@ -11439,7 +11439,7 @@
       "spy_wt": 0.2058,
       "daily_return": 0.0039,
       "cumulative_return": 0.6818,
-      "spy_cumulative_return": 0.399915,
+      "spy_cumulative_return": 0.399914,
       "formula_version": "v3-costs"
     },
     {
@@ -11491,12 +11491,12 @@
       "spy_wt": 0.2509,
       "daily_return": -0.0021,
       "cumulative_return": 0.6716,
-      "spy_cumulative_return": 0.381089,
+      "spy_cumulative_return": 0.381088,
       "formula_version": "v3-costs"
     },
     {
       "date": "2022-11-03",
-      "vrp_z": -0.8633,
+      "vrp_z": -0.8632,
       "ts_z": 0.4911,
       "overnight_z": 0.1987,
       "equity_wt": 0.2373,
@@ -11543,7 +11543,7 @@
       "spy_wt": 0.2781,
       "daily_return": 0.0091,
       "cumulative_return": 0.691,
-      "spy_cumulative_return": 0.407356,
+      "spy_cumulative_return": 0.407357,
       "formula_version": "v3-costs"
     },
     {
@@ -11561,7 +11561,7 @@
     },
     {
       "date": "2022-11-10",
-      "vrp_z": -2.0605,
+      "vrp_z": -2.0604,
       "ts_z": -0.3158,
       "overnight_z": 0.6651,
       "equity_wt": 0.0212,
@@ -11660,7 +11660,7 @@
       "spy_wt": 0.1459,
       "daily_return": -0.003,
       "cumulative_return": 0.7127,
-      "spy_cumulative_return": 0.45374,
+      "spy_cumulative_return": 0.453741,
       "formula_version": "v3-costs"
     },
     {
@@ -11686,7 +11686,7 @@
       "spy_wt": 0.1459,
       "daily_return": 0.0012,
       "cumulative_return": 0.715,
-      "spy_cumulative_return": 0.482588,
+      "spy_cumulative_return": 0.482587,
       "formula_version": "v3-costs"
     },
     {
@@ -11712,7 +11712,7 @@
       "spy_wt": 0.1459,
       "daily_return": -0.0075,
       "cumulative_return": 0.7027,
-      "spy_cumulative_return": 0.458604,
+      "spy_cumulative_return": 0.458603,
       "formula_version": "v3-costs"
     },
     {
@@ -11855,7 +11855,7 @@
       "spy_wt": 0.5554,
       "daily_return": 0.0077,
       "cumulative_return": 0.7405,
-      "spy_cumulative_return": 0.480929,
+      "spy_cumulative_return": 0.48093,
       "formula_version": "v3-costs"
     },
     {
@@ -11938,7 +11938,7 @@
     },
     {
       "date": "2022-12-22",
-      "vrp_z": -0.1063,
+      "vrp_z": -0.1064,
       "ts_z": -0.6298,
       "overnight_z": 0.2601,
       "equity_wt": 0.3917,
@@ -11951,7 +11951,7 @@
     },
     {
       "date": "2022-12-23",
-      "vrp_z": -0.3268,
+      "vrp_z": -0.3269,
       "ts_z": -1.0338,
       "overnight_z": 0.1883,
       "equity_wt": 0.344,
@@ -11972,7 +11972,7 @@
       "spy_wt": 0.3075,
       "daily_return": 0.0054,
       "cumulative_return": 0.7168,
-      "spy_cumulative_return": 0.411599,
+      "spy_cumulative_return": 0.411598,
       "formula_version": "v3-costs"
     },
     {
@@ -12029,7 +12029,7 @@
     },
     {
       "date": "2023-01-04",
-      "vrp_z": 0.345,
+      "vrp_z": 0.3449,
       "ts_z": -0.0196,
       "overnight_z": 1.6781,
       "equity_wt": 0.5529,
@@ -12044,7 +12044,7 @@
       "date": "2023-01-05",
       "vrp_z": 0.5513,
       "ts_z": 0.1408,
-      "overnight_z": 1.6038,
+      "overnight_z": 1.6037,
       "equity_wt": 0.5904,
       "ts_gate": false,
       "spy_wt": 0.574,
@@ -12076,7 +12076,7 @@
       "spy_wt": 0.4588,
       "daily_return": 0.0004,
       "cumulative_return": 0.7485,
-      "spy_cumulative_return": 0.435508,
+      "spy_cumulative_return": 0.435507,
       "formula_version": "v3-costs"
     },
     {
@@ -12115,7 +12115,7 @@
       "spy_wt": 0.4588,
       "daily_return": 0.0068,
       "cumulative_return": 0.7776,
-      "spy_cumulative_return": 0.469187,
+      "spy_cumulative_return": 0.469188,
       "formula_version": "v3-costs"
     },
     {
@@ -12154,7 +12154,7 @@
       "spy_wt": 0.4623,
       "daily_return": -0.0099,
       "cumulative_return": 0.7685,
-      "spy_cumulative_return": 0.448942,
+      "spy_cumulative_return": 0.448943,
       "formula_version": "v3-costs"
     },
     {
@@ -12167,7 +12167,7 @@
       "spy_wt": 0.4623,
       "daily_return": 0.0085,
       "cumulative_return": 0.7835,
-      "spy_cumulative_return": 0.438395,
+      "spy_cumulative_return": 0.438394,
       "formula_version": "v3-costs"
     },
     {
@@ -12180,7 +12180,7 @@
       "spy_wt": 0.4623,
       "daily_return": 0.0064,
       "cumulative_return": 0.795,
-      "spy_cumulative_return": 0.46519,
+      "spy_cumulative_return": 0.465191,
       "formula_version": "v3-costs"
     },
     {
@@ -12224,7 +12224,7 @@
     },
     {
       "date": "2023-01-26",
-      "vrp_z": 0.0789,
+      "vrp_z": 0.0788,
       "ts_z": -0.4663,
       "overnight_z": -0.4652,
       "equity_wt": 0.3925,
@@ -12239,7 +12239,7 @@
       "date": "2023-01-27",
       "vrp_z": 0.085,
       "ts_z": -0.4724,
-      "overnight_z": -0.6951,
+      "overnight_z": -0.695,
       "equity_wt": 0.3822,
       "ts_gate": false,
       "spy_wt": 0.4623,
@@ -12361,7 +12361,7 @@
       "ts_gate": false,
       "spy_wt": 0.3396,
       "daily_return": -0.0055,
-      "cumulative_return": 0.7722,
+      "cumulative_return": 0.7721,
       "spy_cumulative_return": 0.50668,
       "formula_version": "v3-costs"
     },
@@ -12382,7 +12382,7 @@
       "date": "2023-02-13",
       "vrp_z": 0.5034,
       "ts_z": -0.0249,
-      "overnight_z": -1.8814,
+      "overnight_z": -1.8813,
       "equity_wt": 0.4066,
       "ts_gate": false,
       "spy_wt": 0.4423,
@@ -12544,12 +12544,12 @@
       "spy_wt": 0.4796,
       "daily_return": 0.0054,
       "cumulative_return": 0.7494,
-      "spy_cumulative_return": 0.472334,
+      "spy_cumulative_return": 0.472333,
       "formula_version": "v3-costs"
     },
     {
       "date": "2023-03-03",
-      "vrp_z": 0.3222,
+      "vrp_z": 0.3221,
       "ts_z": 0.0014,
       "overnight_z": -1.0922,
       "equity_wt": 0.4098,
@@ -12557,7 +12557,7 @@
       "spy_wt": 0.4796,
       "daily_return": 0.011,
       "cumulative_return": 0.7687,
-      "spy_cumulative_return": 0.495946,
+      "spy_cumulative_return": 0.495947,
       "formula_version": "v3-costs"
     },
     {
@@ -12622,7 +12622,7 @@
       "spy_wt": 0.3536,
       "daily_return": 0.0088,
       "cumulative_return": 0.743,
-      "spy_cumulative_return": 0.42829,
+      "spy_cumulative_return": 0.428291,
       "formula_version": "v3-costs"
     },
     {
@@ -12687,12 +12687,12 @@
       "spy_wt": 0.6875,
       "daily_return": 0.0061,
       "cumulative_return": 0.8044,
-      "spy_cumulative_return": 0.4489,
+      "spy_cumulative_return": 0.448899,
       "formula_version": "v3-costs"
     },
     {
       "date": "2023-03-20",
-      "vrp_z": 1.1984,
+      "vrp_z": 1.1983,
       "ts_z": 0.2046,
       "overnight_z": -0.2689,
       "equity_wt": 0.6262,
@@ -12770,7 +12770,7 @@
     },
     {
       "date": "2023-03-28",
-      "vrp_z": 0.1654,
+      "vrp_z": 0.1655,
       "ts_z": -0.7435,
       "overnight_z": 0.1961,
       "equity_wt": 0.4429,
@@ -12809,7 +12809,7 @@
     },
     {
       "date": "2023-03-31",
-      "vrp_z": -0.4061,
+      "vrp_z": -0.406,
       "ts_z": -1.052,
       "overnight_z": 0.6418,
       "equity_wt": 0.3509,
@@ -12825,7 +12825,7 @@
       "vrp_z": -0.2727,
       "ts_z": -0.8381,
       "overnight_z": 0.6417,
-      "equity_wt": 0.3775,
+      "equity_wt": 0.3776,
       "ts_gate": false,
       "spy_wt": 0.3763,
       "daily_return": 0.0035,
@@ -12851,7 +12851,7 @@
       "vrp_z": 0.035,
       "ts_z": -0.9313,
       "overnight_z": 0.4311,
-      "equity_wt": 0.4285,
+      "equity_wt": 0.4286,
       "ts_gate": false,
       "spy_wt": 0.3763,
       "daily_return": -0.0041,
@@ -12926,7 +12926,7 @@
     },
     {
       "date": "2023-04-14",
-      "vrp_z": 0.3327,
+      "vrp_z": 0.3328,
       "ts_z": -1.834,
       "overnight_z": 0.1879,
       "equity_wt": 0.4759,
@@ -12952,7 +12952,7 @@
     },
     {
       "date": "2023-04-18",
-      "vrp_z": 0.7717,
+      "vrp_z": 0.7718,
       "ts_z": -1.903,
       "overnight_z": 0.731,
       "equity_wt": 0.5909,
@@ -13032,7 +13032,7 @@
       "date": "2023-04-26",
       "vrp_z": 1.4609,
       "ts_z": -1.2255,
-      "overnight_z": 0.1501,
+      "overnight_z": 0.1502,
       "equity_wt": 0.6997,
       "ts_gate": false,
       "spy_wt": 0.6915,
@@ -13064,7 +13064,7 @@
       "spy_wt": 0.5279,
       "daily_return": 0.0045,
       "cumulative_return": 0.8942,
-      "spy_cumulative_return": 0.545273,
+      "spy_cumulative_return": 0.545272,
       "formula_version": "v3-costs"
     },
     {
@@ -13084,7 +13084,7 @@
       "date": "2023-05-02",
       "vrp_z": 1.0459,
       "ts_z": -1.55,
-      "overnight_z": -0.1667,
+      "overnight_z": -0.1668,
       "equity_wt": 0.6008,
       "ts_gate": false,
       "spy_wt": 0.6008,
@@ -13147,7 +13147,7 @@
     },
     {
       "date": "2023-05-09",
-      "vrp_z": 0.5432,
+      "vrp_z": 0.5433,
       "ts_z": -1.917,
       "overnight_z": 0.4491,
       "equity_wt": 0.5311,
@@ -13155,7 +13155,7 @@
       "spy_wt": 0.4877,
       "daily_return": 0.0035,
       "cumulative_return": 0.9146,
-      "spy_cumulative_return": 0.526696,
+      "spy_cumulative_return": 0.526697,
       "formula_version": "v3-costs"
     },
     {
@@ -13168,7 +13168,7 @@
       "spy_wt": 0.4877,
       "daily_return": -0.0024,
       "cumulative_return": 0.9099,
-      "spy_cumulative_return": 0.53383,
+      "spy_cumulative_return": 0.533829,
       "formula_version": "v3-costs"
     },
     {
@@ -13389,7 +13389,7 @@
       "spy_wt": 0.4923,
       "daily_return": 0.0002,
       "cumulative_return": 0.9153,
-      "spy_cumulative_return": 0.586772,
+      "spy_cumulative_return": 0.586771,
       "formula_version": "v3-costs"
     },
     {
@@ -13454,7 +13454,7 @@
       "spy_wt": 0.4923,
       "daily_return": 0.007,
       "cumulative_return": 0.9415,
-      "spy_cumulative_return": 0.611663,
+      "spy_cumulative_return": 0.611664,
       "formula_version": "v3-costs"
     },
     {
@@ -13493,7 +13493,7 @@
       "spy_wt": 0.4923,
       "daily_return": 0.0113,
       "cumulative_return": 0.9633,
-      "spy_cumulative_return": 0.644357,
+      "spy_cumulative_return": 0.644358,
       "formula_version": "v3-costs"
     },
     {
@@ -13506,7 +13506,7 @@
       "spy_wt": 0.4923,
       "daily_return": 0.0023,
       "cumulative_return": 0.9679,
-      "spy_cumulative_return": 0.638757,
+      "spy_cumulative_return": 0.638756,
       "formula_version": "v3-costs"
     },
     {
@@ -13597,7 +13597,7 @@
       "spy_wt": 0.3737,
       "daily_return": 0.0002,
       "cumulative_return": 0.9462,
-      "spy_cumulative_return": 0.627309,
+      "spy_cumulative_return": 0.627308,
       "formula_version": "v3-costs"
     },
     {
@@ -13615,7 +13615,7 @@
     },
     {
       "date": "2023-06-30",
-      "vrp_z": 0.2229,
+      "vrp_z": 0.2228,
       "ts_z": -1.1099,
       "overnight_z": -0.6311,
       "equity_wt": 0.413,
@@ -13641,7 +13641,7 @@
     },
     {
       "date": "2023-07-05",
-      "vrp_z": 0.7207,
+      "vrp_z": 0.7206,
       "ts_z": -0.8921,
       "overnight_z": -0.6212,
       "equity_wt": 0.5131,
@@ -13654,7 +13654,7 @@
     },
     {
       "date": "2023-07-06",
-      "vrp_z": 0.9374,
+      "vrp_z": 0.9373,
       "ts_z": -0.4597,
       "overnight_z": -0.8925,
       "equity_wt": 0.5428,
@@ -13687,7 +13687,7 @@
       "ts_gate": false,
       "spy_wt": 0.5131,
       "daily_return": 0.0006,
-      "cumulative_return": 0.948,
+      "cumulative_return": 0.9479,
       "spy_cumulative_return": 0.639502,
       "formula_version": "v3-costs"
     },
@@ -13695,13 +13695,13 @@
       "date": "2023-07-11",
       "vrp_z": 0.7487,
       "ts_z": -0.5761,
-      "overnight_z": -0.9892,
+      "overnight_z": -0.9891,
       "equity_wt": 0.5003,
       "ts_gate": false,
       "spy_wt": 0.5131,
       "daily_return": 0.0047,
       "cumulative_return": 0.9571,
-      "spy_cumulative_return": 0.649943,
+      "spy_cumulative_return": 0.649944,
       "formula_version": "v3-costs"
     },
     {
@@ -13719,7 +13719,7 @@
     },
     {
       "date": "2023-07-13",
-      "vrp_z": 0.3155,
+      "vrp_z": 0.3154,
       "ts_z": -1.1334,
       "overnight_z": -0.72,
       "equity_wt": 0.4271,
@@ -13735,12 +13735,12 @@
       "vrp_z": 0.2643,
       "ts_z": -1.3614,
       "overnight_z": -0.6322,
-      "equity_wt": 0.4213,
+      "equity_wt": 0.4212,
       "ts_gate": false,
       "spy_wt": 0.4129,
       "daily_return": 0.0015,
       "cumulative_return": 0.9763,
-      "spy_cumulative_return": 0.675375,
+      "spy_cumulative_return": 0.675376,
       "formula_version": "v3-costs"
     },
     {
@@ -13778,7 +13778,7 @@
       "ts_gate": false,
       "spy_wt": 0.4129,
       "daily_return": 0.0004,
-      "cumulative_return": 1.0042,
+      "cumulative_return": 1.0041,
       "spy_cumulative_return": 0.697451,
       "formula_version": "v3-costs"
     },
@@ -13844,7 +13844,7 @@
       "spy_wt": 0.5163,
       "daily_return": 0.0031,
       "cumulative_return": 1.0041,
-      "spy_cumulative_return": 0.698608,
+      "spy_cumulative_return": 0.698607,
       "formula_version": "v3-costs"
     },
     {
@@ -13896,7 +13896,7 @@
       "spy_wt": 0.6348,
       "daily_return": -0.0022,
       "cumulative_return": 1.0026,
-      "spy_cumulative_return": 0.702225,
+      "spy_cumulative_return": 0.702224,
       "formula_version": "v3-costs"
     },
     {
@@ -14052,7 +14052,7 @@
       "spy_wt": 0.7748,
       "daily_return": -0.0056,
       "cumulative_return": 0.931,
-      "spy_cumulative_return": 0.626935,
+      "spy_cumulative_return": 0.626936,
       "formula_version": "v3-costs"
     },
     {
@@ -14064,7 +14064,7 @@
       "ts_gate": false,
       "spy_wt": 0.7748,
       "daily_return": 0.0006,
-      "cumulative_return": 0.9321,
+      "cumulative_return": 0.932,
       "spy_cumulative_return": 0.627719,
       "formula_version": "v3-costs"
     },
@@ -14091,7 +14091,7 @@
       "spy_wt": 0.7748,
       "daily_return": -0.0032,
       "cumulative_return": 0.9423,
-      "spy_cumulative_return": 0.633871,
+      "spy_cumulative_return": 0.633872,
       "formula_version": "v3-costs"
     },
     {
@@ -14182,7 +14182,7 @@
       "spy_wt": 0.3613,
       "daily_return": -0.0038,
       "cumulative_return": 0.98,
-      "spy_cumulative_return": 0.679366,
+      "spy_cumulative_return": 0.679365,
       "formula_version": "v3-costs"
     },
     {
@@ -14194,7 +14194,7 @@
       "ts_gate": false,
       "spy_wt": 0.3613,
       "daily_return": 0.0028,
-      "cumulative_return": 0.9855,
+      "cumulative_return": 0.9854,
       "spy_cumulative_return": 0.682498,
       "formula_version": "v3-costs"
     },
@@ -14351,7 +14351,7 @@
       "spy_wt": 0.4947,
       "daily_return": -0.0051,
       "cumulative_return": 0.9816,
-      "spy_cumulative_return": 0.641469,
+      "spy_cumulative_return": 0.641468,
       "formula_version": "v3-costs"
     },
     {
@@ -14429,7 +14429,7 @@
       "spy_wt": 0.6571,
       "daily_return": -0.0023,
       "cumulative_return": 0.9337,
-      "spy_cumulative_return": 0.603597,
+      "spy_cumulative_return": 0.603598,
       "formula_version": "v3-costs"
     },
     {
@@ -14507,7 +14507,7 @@
       "spy_wt": 0.53,
       "daily_return": 0.011,
       "cumulative_return": 0.9144,
-      "spy_cumulative_return": 0.607414,
+      "spy_cumulative_return": 0.607415,
       "formula_version": "v3-costs"
     },
     {
@@ -14533,12 +14533,12 @@
       "spy_wt": 0.53,
       "daily_return": 0.0026,
       "cumulative_return": 0.9335,
-      "spy_cumulative_return": 0.626126,
+      "spy_cumulative_return": 0.626125,
       "formula_version": "v3-costs"
     },
     {
       "date": "2023-10-11",
-      "vrp_z": 0.0999,
+      "vrp_z": 0.0998,
       "ts_z": 0.4031,
       "overnight_z": -0.1458,
       "equity_wt": 0.4127,
@@ -14650,7 +14650,7 @@
       "spy_wt": 0.2914,
       "daily_return": -0.0066,
       "cumulative_return": 0.9832,
-      "spy_cumulative_return": 0.573436,
+      "spy_cumulative_return": 0.573435,
       "formula_version": "v3-costs"
     },
     {
@@ -14832,7 +14832,7 @@
       "spy_wt": 0.2434,
       "daily_return": -0.0038,
       "cumulative_return": 0.9707,
-      "spy_cumulative_return": 0.648841,
+      "spy_cumulative_return": 0.64884,
       "formula_version": "v3-costs"
     },
     {
@@ -14917,7 +14917,7 @@
       "date": "2023-11-21",
       "vrp_z": -1.3917,
       "ts_z": -0.5941,
-      "overnight_z": 0.669,
+      "overnight_z": 0.6691,
       "equity_wt": 0.1551,
       "ts_gate": false,
       "spy_wt": 0.096,
@@ -14962,7 +14962,7 @@
       "spy_wt": 0.2642,
       "daily_return": 0.0025,
       "cumulative_return": 1.0205,
-      "spy_cumulative_return": 0.700744,
+      "spy_cumulative_return": 0.700745,
       "formula_version": "v3-costs"
     },
     {
@@ -14980,7 +14980,7 @@
     },
     {
       "date": "2023-11-29",
-      "vrp_z": -0.5269,
+      "vrp_z": -0.5268,
       "ts_z": -1.1031,
       "overnight_z": 0.2119,
       "equity_wt": 0.3052,
@@ -14993,7 +14993,7 @@
     },
     {
       "date": "2023-11-30",
-      "vrp_z": -0.5539,
+      "vrp_z": -0.5538,
       "ts_z": -1.0979,
       "overnight_z": 0.2986,
       "equity_wt": 0.3042,
@@ -15009,7 +15009,7 @@
       "vrp_z": -0.6038,
       "ts_z": -1.4098,
       "overnight_z": 0.2363,
-      "equity_wt": 0.291,
+      "equity_wt": 0.2911,
       "ts_gate": false,
       "spy_wt": 0.2642,
       "daily_return": 0.0073,
@@ -15032,7 +15032,7 @@
     },
     {
       "date": "2023-12-05",
-      "vrp_z": -0.1106,
+      "vrp_z": -0.1105,
       "ts_z": -1.3382,
       "overnight_z": -0.1786,
       "equity_wt": 0.369,
@@ -15058,7 +15058,7 @@
     },
     {
       "date": "2023-12-07",
-      "vrp_z": -0.2302,
+      "vrp_z": -0.2301,
       "ts_z": -1.1195,
       "overnight_z": 0.2272,
       "equity_wt": 0.3653,
@@ -15084,7 +15084,7 @@
     },
     {
       "date": "2023-12-11",
-      "vrp_z": -0.1484,
+      "vrp_z": -0.1483,
       "ts_z": -1.1643,
       "overnight_z": -0.4652,
       "equity_wt": 0.3471,
@@ -15097,7 +15097,7 @@
     },
     {
       "date": "2023-12-12",
-      "vrp_z": 0.0815,
+      "vrp_z": 0.0816,
       "ts_z": -1.5323,
       "overnight_z": -0.4748,
       "equity_wt": 0.3926,
@@ -15175,7 +15175,7 @@
     },
     {
       "date": "2023-12-20",
-      "vrp_z": 0.4361,
+      "vrp_z": 0.436,
       "ts_z": -1.2374,
       "overnight_z": -0.3104,
       "equity_wt": 0.4717,
@@ -15240,7 +15240,7 @@
     },
     {
       "date": "2023-12-28",
-      "vrp_z": -0.1651,
+      "vrp_z": -0.1652,
       "ts_z": -1.3146,
       "overnight_z": -0.1667,
       "equity_wt": 0.3586,
@@ -15305,7 +15305,7 @@
     },
     {
       "date": "2024-01-05",
-      "vrp_z": -0.15,
+      "vrp_z": -0.1501,
       "ts_z": -0.4094,
       "overnight_z": 0.0567,
       "equity_wt": 0.3728,
@@ -15331,7 +15331,7 @@
     },
     {
       "date": "2024-01-09",
-      "vrp_z": -0.6656,
+      "vrp_z": -0.6657,
       "ts_z": -0.4921,
       "overnight_z": -0.8378,
       "equity_wt": 0.225,
@@ -15357,7 +15357,7 @@
     },
     {
       "date": "2024-01-11",
-      "vrp_z": -0.825,
+      "vrp_z": -0.8251,
       "ts_z": -0.5252,
       "overnight_z": -0.4827,
       "equity_wt": 0.2109,
@@ -15409,7 +15409,7 @@
     },
     {
       "date": "2024-01-18",
-      "vrp_z": 0.0132,
+      "vrp_z": 0.0131,
       "ts_z": 0.2751,
       "overnight_z": -0.2742,
       "equity_wt": 0.3889,
@@ -15443,7 +15443,7 @@
       "spy_wt": 0.2489,
       "daily_return": -0.0004,
       "cumulative_return": 1.0672,
-      "spy_cumulative_return": 0.816491,
+      "spy_cumulative_return": 0.81649,
       "formula_version": "v3-costs"
     },
     {
@@ -15487,7 +15487,7 @@
     },
     {
       "date": "2024-01-26",
-      "vrp_z": 0.1706,
+      "vrp_z": 0.1705,
       "ts_z": 0.0865,
       "overnight_z": -0.3068,
       "equity_wt": 0.4188,
@@ -15495,7 +15495,7 @@
       "spy_wt": 0.4153,
       "daily_return": 0.0017,
       "cumulative_return": 1.0722,
-      "spy_cumulative_return": 0.831369,
+      "spy_cumulative_return": 0.83137,
       "formula_version": "v3-costs"
     },
     {
@@ -15560,7 +15560,7 @@
       "spy_wt": 0.2415,
       "daily_return": -0.0017,
       "cumulative_return": 1.0968,
-      "spy_cumulative_return": 0.857445,
+      "spy_cumulative_return": 0.857446,
       "formula_version": "v3-costs"
     },
     {
@@ -15599,7 +15599,7 @@
       "spy_wt": 0.2415,
       "daily_return": 0.0022,
       "cumulative_return": 1.096,
-      "spy_cumulative_return": 0.871535,
+      "spy_cumulative_return": 0.871536,
       "formula_version": "v3-costs"
     },
     {
@@ -15716,12 +15716,12 @@
       "spy_wt": 0.2415,
       "daily_return": 0.003,
       "cumulative_return": 1.0934,
-      "spy_cumulative_return": 0.868191,
+      "spy_cumulative_return": 0.868192,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-02-22",
-      "vrp_z": -1.2398,
+      "vrp_z": -1.2397,
       "ts_z": 0.9679,
       "overnight_z": -0.2115,
       "equity_wt": 0.1415,
@@ -15742,7 +15742,7 @@
       "spy_wt": 0.0665,
       "daily_return": 0.0056,
       "cumulative_return": 1.1264,
-      "spy_cumulative_return": 0.908169,
+      "spy_cumulative_return": 0.90817,
       "formula_version": "v3-costs"
     },
     {
@@ -15762,7 +15762,7 @@
       "date": "2024-02-27",
       "vrp_z": -1.6977,
       "ts_z": 0.5685,
-      "overnight_z": -0.3101,
+      "overnight_z": -0.3102,
       "equity_wt": 0.045,
       "ts_gate": false,
       "spy_wt": 0.0665,
@@ -15781,7 +15781,7 @@
       "spy_wt": 0.0665,
       "daily_return": 0.0005,
       "cumulative_return": 1.1232,
-      "spy_cumulative_return": 0.902196,
+      "spy_cumulative_return": 0.902195,
       "formula_version": "v3-costs"
     },
     {
@@ -15846,7 +15846,7 @@
       "spy_wt": 0.2356,
       "daily_return": 0.0095,
       "cumulative_return": 1.2364,
-      "spy_cumulative_return": 0.915309,
+      "spy_cumulative_return": 0.915308,
       "formula_version": "v3-costs"
     },
     {
@@ -16028,12 +16028,12 @@
       "spy_wt": 0.4853,
       "daily_return": -0.0005,
       "cumulative_return": 1.304,
-      "spy_cumulative_return": 0.955406,
+      "spy_cumulative_return": 0.955407,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-03-27",
-      "vrp_z": -0.0959,
+      "vrp_z": -0.0958,
       "ts_z": -0.4891,
       "overnight_z": 0.791,
       "equity_wt": 0.4204,
@@ -16059,7 +16059,7 @@
     },
     {
       "date": "2024-04-01",
-      "vrp_z": 0.2871,
+      "vrp_z": 0.2872,
       "ts_z": 0.2134,
       "overnight_z": 1.0096,
       "equity_wt": 0.5079,
@@ -16072,14 +16072,14 @@
     },
     {
       "date": "2024-04-02",
-      "vrp_z": 0.7566,
+      "vrp_z": 0.7567,
       "ts_z": 0.9189,
       "overnight_z": 0.9043,
       "equity_wt": 0.5965,
       "ts_gate": false,
       "spy_wt": 0.5965,
       "daily_return": 0.0027,
-      "cumulative_return": 1.3838,
+      "cumulative_return": 1.3837,
       "spy_cumulative_return": 0.95552,
       "formula_version": "v3-costs"
     },
@@ -16088,7 +16088,7 @@
       "vrp_z": 0.6325,
       "ts_z": 0.7343,
       "overnight_z": 0.7851,
-      "equity_wt": 0.5657,
+      "equity_wt": 0.5658,
       "ts_gate": false,
       "spy_wt": 0.5965,
       "daily_return": 0.0045,
@@ -16189,7 +16189,7 @@
     },
     {
       "date": "2024-04-15",
-      "vrp_z": 1.7545,
+      "vrp_z": 1.7546,
       "ts_z": 2.6546,
       "overnight_z": 1.4853,
       "equity_wt": 0.4126,
@@ -16215,7 +16215,7 @@
     },
     {
       "date": "2024-04-17",
-      "vrp_z": 1.4095,
+      "vrp_z": 1.4096,
       "ts_z": 2.2611,
       "overnight_z": 1.9647,
       "equity_wt": 0.3901,
@@ -16241,7 +16241,7 @@
     },
     {
       "date": "2024-04-19",
-      "vrp_z": 1.9241,
+      "vrp_z": 1.9242,
       "ts_z": 2.243,
       "overnight_z": 3.0311,
       "equity_wt": 0.4682,
@@ -16249,7 +16249,7 @@
       "spy_wt": 0.4126,
       "daily_return": -0.0013,
       "cumulative_return": 1.4215,
-      "spy_cumulative_return": 0.866269,
+      "spy_cumulative_return": 0.86627,
       "formula_version": "v3-costs"
     },
     {
@@ -16274,8 +16274,8 @@
       "ts_gate": true,
       "spy_wt": 0.2528,
       "daily_return": 0.0061,
-      "cumulative_return": 1.4093,
-      "spy_cumulative_return": 0.905806,
+      "cumulative_return": 1.4092,
+      "spy_cumulative_return": 0.905807,
       "formula_version": "v3-costs"
     },
     {
@@ -16412,8 +16412,8 @@
       "date": "2024-05-08",
       "vrp_z": -2.0406,
       "ts_z": -0.1361,
-      "overnight_z": 1.6992,
-      "equity_wt": 0.0768,
+      "overnight_z": 1.6993,
+      "equity_wt": 0.0769,
       "ts_gate": false,
       "spy_wt": 0.1237,
       "daily_return": -0.0026,
@@ -16443,7 +16443,7 @@
       "ts_gate": false,
       "spy_wt": 0.1237,
       "daily_return": 0.0073,
-      "cumulative_return": 1.4651,
+      "cumulative_return": 1.465,
       "spy_cumulative_return": 0.963058,
       "formula_version": "v3-costs"
     },
@@ -16470,7 +16470,7 @@
       "spy_wt": 0.3054,
       "daily_return": 0.0069,
       "cumulative_return": 1.4571,
-      "spy_cumulative_return": 0.972329,
+      "spy_cumulative_return": 0.97233,
       "formula_version": "v3-costs"
     },
     {
@@ -16522,7 +16522,7 @@
       "spy_wt": 0.1911,
       "daily_return": 0.0036,
       "cumulative_return": 1.5187,
-      "spy_cumulative_return": 0.997808,
+      "spy_cumulative_return": 0.997809,
       "formula_version": "v3-costs"
     },
     {
@@ -16535,7 +16535,7 @@
       "spy_wt": 0.1911,
       "daily_return": -0.0008,
       "cumulative_return": 1.5167,
-      "spy_cumulative_return": 1.002709,
+      "spy_cumulative_return": 1.002708,
       "formula_version": "v3-costs"
     },
     {
@@ -16548,7 +16548,7 @@
       "spy_wt": 0.1911,
       "daily_return": -0.0155,
       "cumulative_return": 1.4777,
-      "spy_cumulative_return": 0.996941,
+      "spy_cumulative_return": 0.996942,
       "formula_version": "v3-costs"
     },
     {
@@ -16644,7 +16644,7 @@
     },
     {
       "date": "2024-06-04",
-      "vrp_z": 0.6126,
+      "vrp_z": 0.6127,
       "ts_z": 0.092,
       "overnight_z": -0.2417,
       "equity_wt": 0.5104,
@@ -16657,7 +16657,7 @@
     },
     {
       "date": "2024-06-05",
-      "vrp_z": 0.2861,
+      "vrp_z": 0.2862,
       "ts_z": -0.2783,
       "overnight_z": -0.304,
       "equity_wt": 0.442,
@@ -16683,7 +16683,7 @@
     },
     {
       "date": "2024-06-07",
-      "vrp_z": 0.0788,
+      "vrp_z": 0.0789,
       "ts_z": -0.7705,
       "overnight_z": -0.2051,
       "equity_wt": 0.4055,
@@ -16730,7 +16730,7 @@
       "spy_wt": 0.3555,
       "daily_return": 0.0048,
       "cumulative_return": 1.4624,
-      "spy_cumulative_return": 1.040399,
+      "spy_cumulative_return": 1.040398,
       "formula_version": "v3-costs"
     },
     {
@@ -16743,14 +16743,14 @@
       "spy_wt": 0.3555,
       "daily_return": -0.0045,
       "cumulative_return": 1.4512,
-      "spy_cumulative_return": 1.044506,
+      "spy_cumulative_return": 1.044507,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-06-14",
       "vrp_z": 0.5878,
       "ts_z": -0.673,
-      "overnight_z": -0.4121,
+      "overnight_z": -0.4122,
       "equity_wt": 0.497,
       "ts_gate": false,
       "spy_wt": 0.497,
@@ -16795,7 +16795,7 @@
       "spy_wt": 0.5041,
       "daily_return": 0.0059,
       "cumulative_return": 1.5003,
-      "spy_cumulative_return": 1.061656,
+      "spy_cumulative_return": 1.061655,
       "formula_version": "v3-costs"
     },
     {
@@ -16860,7 +16860,7 @@
       "spy_wt": 0.4366,
       "daily_return": 0.0064,
       "cumulative_return": 1.4863,
-      "spy_cumulative_return": 1.065925,
+      "spy_cumulative_return": 1.065924,
       "formula_version": "v3-costs"
     },
     {
@@ -16917,7 +16917,7 @@
     },
     {
       "date": "2024-07-05",
-      "vrp_z": 1.1011,
+      "vrp_z": 1.1012,
       "ts_z": -0.3406,
       "overnight_z": -1.3063,
       "equity_wt": 0.5549,
@@ -16930,12 +16930,12 @@
     },
     {
       "date": "2024-07-08",
-      "vrp_z": 1.4642,
+      "vrp_z": 1.4643,
       "ts_z": -0.4399,
       "overnight_z": -1.18,
-      "equity_wt": 0.6338,
+      "equity_wt": 0.6339,
       "ts_gate": false,
-      "spy_wt": 0.6338,
+      "spy_wt": 0.6339,
       "daily_return": -0.0065,
       "cumulative_return": 1.5274,
       "spy_cumulative_return": 1.099615,
@@ -16948,9 +16948,9 @@
       "overnight_z": -1.1484,
       "equity_wt": 0.6484,
       "ts_gate": false,
-      "spy_wt": 0.6338,
+      "spy_wt": 0.6339,
       "daily_return": 0.0027,
-      "cumulative_return": 1.5342,
+      "cumulative_return": 1.5341,
       "spy_cumulative_return": 1.101657,
       "formula_version": "v3-costs"
     },
@@ -16961,7 +16961,7 @@
       "overnight_z": -1.2485,
       "equity_wt": 0.6278,
       "ts_gate": false,
-      "spy_wt": 0.6338,
+      "spy_wt": 0.6339,
       "daily_return": 0.0096,
       "cumulative_return": 1.5585,
       "spy_cumulative_return": 1.122453,
@@ -16974,7 +16974,7 @@
       "overnight_z": -0.7973,
       "equity_wt": 0.558,
       "ts_gate": false,
-      "spy_wt": 0.6338,
+      "spy_wt": 0.6339,
       "daily_return": -0.0037,
       "cumulative_return": 1.5491,
       "spy_cumulative_return": 1.104152,
@@ -17179,7 +17179,7 @@
       "date": "2024-08-02",
       "vrp_z": 1.401,
       "ts_z": 2.6532,
-      "overnight_z": 2.0188,
+      "overnight_z": 2.0189,
       "equity_wt": 0.3906,
       "ts_gate": true,
       "spy_wt": 0.3906,
@@ -17229,7 +17229,7 @@
     },
     {
       "date": "2024-08-08",
-      "vrp_z": -0.267,
+      "vrp_z": -0.2671,
       "ts_z": 1.9792,
       "overnight_z": 1.3748,
       "equity_wt": 0.2077,
@@ -17237,12 +17237,12 @@
       "spy_wt": 0.2077,
       "daily_return": 0.0185,
       "cumulative_return": 1.4911,
-      "spy_cumulative_return": 1.006485,
+      "spy_cumulative_return": 1.006484,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-08-09",
-      "vrp_z": -1.5771,
+      "vrp_z": -1.5772,
       "ts_z": 1.4566,
       "overnight_z": 0.8449,
       "equity_wt": 0.0634,
@@ -17250,12 +17250,12 @@
       "spy_wt": 0.0634,
       "daily_return": 0.0027,
       "cumulative_return": 1.4979,
-      "spy_cumulative_return": 1.015333,
+      "spy_cumulative_return": 1.015332,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-08-12",
-      "vrp_z": -1.3598,
+      "vrp_z": -1.3599,
       "ts_z": 1.3548,
       "overnight_z": 1.041,
       "equity_wt": 0.09,
@@ -17268,7 +17268,7 @@
     },
     {
       "date": "2024-08-13",
-      "vrp_z": -2.6617,
+      "vrp_z": -2.6618,
       "ts_z": 0.4053,
       "overnight_z": 0.7634,
       "equity_wt": 0.0,
@@ -17294,7 +17294,7 @@
     },
     {
       "date": "2024-08-15",
-      "vrp_z": -3.6791,
+      "vrp_z": -3.6792,
       "ts_z": -0.8659,
       "overnight_z": 1.1494,
       "equity_wt": 0.0,
@@ -17320,7 +17320,7 @@
     },
     {
       "date": "2024-08-19",
-      "vrp_z": -3.6491,
+      "vrp_z": -3.6492,
       "ts_z": -1.2451,
       "overnight_z": 0.036,
       "equity_wt": 0.0,
@@ -17346,7 +17346,7 @@
     },
     {
       "date": "2024-08-21",
-      "vrp_z": -2.8875,
+      "vrp_z": -2.8876,
       "ts_z": -0.3465,
       "overnight_z": -0.1214,
       "equity_wt": 0.0,
@@ -17354,7 +17354,7 @@
       "spy_wt": 0.0634,
       "daily_return": -0.001,
       "cumulative_return": 1.5849,
-      "spy_cumulative_return": 1.119807,
+      "spy_cumulative_return": 1.119806,
       "formula_version": "v3-costs"
     },
     {
@@ -17411,7 +17411,7 @@
     },
     {
       "date": "2024-08-28",
-      "vrp_z": -1.9302,
+      "vrp_z": -1.9303,
       "ts_z": 0.2743,
       "overnight_z": -0.3909,
       "equity_wt": 0.0,
@@ -17471,12 +17471,12 @@
       "spy_wt": 0.3121,
       "daily_return": 0.0002,
       "cumulative_return": 1.5633,
-      "spy_cumulative_return": 1.083242,
+      "spy_cumulative_return": 1.083243,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-09-05",
-      "vrp_z": 0.4657,
+      "vrp_z": 0.4656,
       "ts_z": 1.1893,
       "overnight_z": 1.0368,
       "equity_wt": 0.2725,
@@ -17484,7 +17484,7 @@
       "spy_wt": 0.3121,
       "daily_return": 0.005,
       "cumulative_return": 1.5761,
-      "spy_cumulative_return": 1.078175,
+      "spy_cumulative_return": 1.078176,
       "formula_version": "v3-costs"
     },
     {
@@ -17502,7 +17502,7 @@
     },
     {
       "date": "2024-09-09",
-      "vrp_z": 0.4096,
+      "vrp_z": 0.4095,
       "ts_z": 0.7696,
       "overnight_z": 0.8706,
       "equity_wt": 0.5254,
@@ -17528,12 +17528,12 @@
     },
     {
       "date": "2024-09-11",
-      "vrp_z": -0.2388,
+      "vrp_z": -0.2389,
       "ts_z": 0.174,
       "overnight_z": 0.7264,
-      "equity_wt": 0.3886,
+      "equity_wt": 0.3885,
       "ts_gate": false,
-      "spy_wt": 0.3886,
+      "spy_wt": 0.3885,
       "daily_return": 0.0045,
       "cumulative_return": 1.588,
       "spy_cumulative_return": 1.096363,
@@ -17541,15 +17541,15 @@
     },
     {
       "date": "2024-09-12",
-      "vrp_z": -0.211,
+      "vrp_z": -0.2111,
       "ts_z": -0.3768,
       "overnight_z": 0.6574,
       "equity_wt": 0.3907,
       "ts_gate": false,
-      "spy_wt": 0.3886,
+      "spy_wt": 0.3885,
       "daily_return": 0.014,
       "cumulative_return": 1.6243,
-      "spy_cumulative_return": 1.114021,
+      "spy_cumulative_return": 1.114022,
       "formula_version": "v3-costs"
     },
     {
@@ -17559,7 +17559,7 @@
       "overnight_z": 0.5681,
       "equity_wt": 0.3512,
       "ts_gate": false,
-      "spy_wt": 0.3886,
+      "spy_wt": 0.3885,
       "daily_return": 0.0081,
       "cumulative_return": 1.6455,
       "spy_cumulative_return": 1.125062,
@@ -17567,12 +17567,12 @@
     },
     {
       "date": "2024-09-16",
-      "vrp_z": 0.1412,
+      "vrp_z": 0.1411,
       "ts_z": -0.61,
       "overnight_z": 0.3622,
       "equity_wt": 0.4463,
       "ts_gate": false,
-      "spy_wt": 0.3886,
+      "spy_wt": 0.3885,
       "daily_return": 0.0005,
       "cumulative_return": 1.6469,
       "spy_cumulative_return": 1.128201,
@@ -17580,7 +17580,7 @@
     },
     {
       "date": "2024-09-17",
-      "vrp_z": 0.2892,
+      "vrp_z": 0.2891,
       "ts_z": -0.4132,
       "overnight_z": 0.8667,
       "equity_wt": 0.5012,
@@ -17606,20 +17606,20 @@
     },
     {
       "date": "2024-09-19",
-      "vrp_z": -0.3834,
+      "vrp_z": -0.3835,
       "ts_z": -0.7962,
       "overnight_z": 1.816,
       "equity_wt": 0.4141,
       "ts_gate": false,
       "spy_wt": 0.5012,
       "daily_return": 0.0163,
-      "cumulative_return": 1.6668,
+      "cumulative_return": 1.6667,
       "spy_cumulative_return": 1.158979,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-09-20",
-      "vrp_z": -0.4385,
+      "vrp_z": -0.4386,
       "ts_z": -0.8659,
       "overnight_z": 1.6951,
       "equity_wt": 0.397,
@@ -17645,7 +17645,7 @@
     },
     {
       "date": "2024-09-24",
-      "vrp_z": -0.4405,
+      "vrp_z": -0.4406,
       "ts_z": -1.2509,
       "overnight_z": 1.2279,
       "equity_wt": 0.3733,
@@ -17691,7 +17691,7 @@
       "ts_gate": false,
       "spy_wt": 0.5042,
       "daily_return": -0.0055,
-      "cumulative_return": 1.7056,
+      "cumulative_return": 1.7055,
       "spy_cumulative_return": 1.16746,
       "formula_version": "v3-costs"
     },
@@ -17723,12 +17723,12 @@
     },
     {
       "date": "2024-10-02",
-      "vrp_z": 1.4444,
+      "vrp_z": 1.4443,
       "ts_z": 0.5408,
       "overnight_z": 1.0136,
-      "equity_wt": 0.7396,
+      "equity_wt": 0.7395,
       "ts_gate": false,
-      "spy_wt": 0.7396,
+      "spy_wt": 0.7395,
       "daily_return": 0.0002,
       "cumulative_return": 1.7025,
       "spy_cumulative_return": 1.157561,
@@ -17744,7 +17744,7 @@
       "spy_wt": 0.4209,
       "daily_return": -0.0018,
       "cumulative_return": 1.6976,
-      "spy_cumulative_return": 1.153617,
+      "spy_cumulative_return": 1.153616,
       "formula_version": "v3-costs"
     },
     {
@@ -17809,12 +17809,12 @@
       "spy_wt": 0.5,
       "daily_return": 0.0028,
       "cumulative_return": 1.695,
-      "spy_cumulative_return": 1.185134,
+      "spy_cumulative_return": 1.185135,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-10-11",
-      "vrp_z": 2.3014,
+      "vrp_z": 2.3013,
       "ts_z": 1.856,
       "overnight_z": 0.496,
       "equity_wt": 0.4425,
@@ -17822,12 +17822,12 @@
       "spy_wt": 0.5,
       "daily_return": 0.0084,
       "cumulative_return": 1.7178,
-      "spy_cumulative_return": 1.198219,
+      "spy_cumulative_return": 1.19822,
       "formula_version": "v3-costs"
     },
     {
       "date": "2024-10-14",
-      "vrp_z": 1.9988,
+      "vrp_z": 1.9987,
       "ts_z": 1.7225,
       "overnight_z": 0.5072,
       "equity_wt": 0.4126,
@@ -17835,7 +17835,7 @@
       "spy_wt": 0.5,
       "daily_return": 0.0033,
       "cumulative_return": 1.7266,
-      "spy_cumulative_return": 1.216198,
+      "spy_cumulative_return": 1.216197,
       "formula_version": "v3-costs"
     },
     {
@@ -17874,7 +17874,7 @@
       "spy_wt": 0.3872,
       "daily_return": 0.0037,
       "cumulative_return": 1.7433,
-      "spy_cumulative_return": 1.208725,
+      "spy_cumulative_return": 1.208726,
       "formula_version": "v3-costs"
     },
     {
@@ -17887,7 +17887,7 @@
       "spy_wt": 0.7619,
       "daily_return": 0.0077,
       "cumulative_return": 1.7644,
-      "spy_cumulative_return": 1.217222,
+      "spy_cumulative_return": 1.217221,
       "formula_version": "v3-costs"
     },
     {
@@ -17913,7 +17913,7 @@
       "spy_wt": 0.3918,
       "daily_return": 0.0063,
       "cumulative_return": 1.7774,
-      "spy_cumulative_return": 1.212404,
+      "spy_cumulative_return": 1.212405,
       "formula_version": "v3-costs"
     },
     {
@@ -17931,9 +17931,9 @@
     },
     {
       "date": "2024-10-24",
-      "vrp_z": 1.8422,
+      "vrp_z": 1.8421,
       "ts_z": 1.3356,
-      "overnight_z": 0.1341,
+      "overnight_z": 0.134,
       "equity_wt": 0.3876,
       "ts_gate": true,
       "spy_wt": 0.3918,
@@ -17964,7 +17964,7 @@
       "ts_gate": true,
       "spy_wt": 0.3918,
       "daily_return": 0.0013,
-      "cumulative_return": 1.7686,
+      "cumulative_return": 1.7685,
       "spy_cumulative_return": 1.202961,
       "formula_version": "v3-costs"
     },
@@ -18043,7 +18043,7 @@
       "spy_wt": 0.4177,
       "daily_return": 0.0071,
       "cumulative_return": 1.7628,
-      "spy_cumulative_return": 1.187297,
+      "spy_cumulative_return": 1.187296,
       "formula_version": "v3-costs"
     },
     {
@@ -18055,7 +18055,7 @@
       "ts_gate": false,
       "spy_wt": 0.4177,
       "daily_return": -0.0065,
-      "cumulative_return": 1.7448,
+      "cumulative_return": 1.7447,
       "spy_cumulative_return": 1.241685,
       "formula_version": "v3-costs"
     },
@@ -18171,7 +18171,7 @@
       "equity_wt": 0.35,
       "ts_gate": false,
       "spy_wt": 0.35,
-      "daily_return": 0.0031,
+      "daily_return": 0.0032,
       "cumulative_return": 1.711,
       "spy_cumulative_return": 1.238878,
       "formula_version": "v3-costs"
@@ -18193,7 +18193,7 @@
       "date": "2024-11-21",
       "vrp_z": -0.1359,
       "ts_z": 0.5774,
-      "overnight_z": 0.8201,
+      "overnight_z": 0.8202,
       "equity_wt": 0.4138,
       "ts_gate": false,
       "spy_wt": 0.4138,
@@ -18230,7 +18230,7 @@
     },
     {
       "date": "2024-11-26",
-      "vrp_z": -0.9323,
+      "vrp_z": -0.9324,
       "ts_z": -0.8511,
       "overnight_z": 0.3185,
       "equity_wt": 0.2295,
@@ -18238,7 +18238,7 @@
       "spy_wt": 0.2295,
       "daily_return": 0.0033,
       "cumulative_return": 1.7106,
-      "spy_cumulative_return": 1.278133,
+      "spy_cumulative_return": 1.278134,
       "formula_version": "v3-costs"
     },
     {
@@ -18251,7 +18251,7 @@
       "spy_wt": 0.2295,
       "daily_return": 0.001,
       "cumulative_return": 1.7133,
-      "spy_cumulative_return": 1.27123,
+      "spy_cumulative_return": 1.271231,
       "formula_version": "v3-costs"
     },
     {
@@ -18282,7 +18282,7 @@
     },
     {
       "date": "2024-12-03",
-      "vrp_z": -0.5046,
+      "vrp_z": -0.5047,
       "ts_z": -1.4944,
       "overnight_z": 0.041,
       "equity_wt": 0.3011,
@@ -18334,7 +18334,7 @@
     },
     {
       "date": "2024-12-09",
-      "vrp_z": 0.8423,
+      "vrp_z": 0.8422,
       "ts_z": -1.2635,
       "overnight_z": -0.1226,
       "equity_wt": 0.5623,
@@ -18453,13 +18453,13 @@
       "date": "2024-12-20",
       "vrp_z": 0.3824,
       "ts_z": 0.246,
-      "overnight_z": 1.2315,
+      "overnight_z": 1.2316,
       "equity_wt": 0.5381,
       "ts_gate": false,
       "spy_wt": 0.5,
       "daily_return": 0.0092,
       "cumulative_return": 1.658,
-      "spy_cumulative_return": 1.249648,
+      "spy_cumulative_return": 1.249649,
       "formula_version": "v3-costs"
     },
     {
@@ -18485,7 +18485,7 @@
       "spy_wt": 0.2678,
       "daily_return": 0.0077,
       "cumulative_return": 1.6839,
-      "spy_cumulative_return": 1.288275,
+      "spy_cumulative_return": 1.288274,
       "formula_version": "v3-costs"
     },
     {
@@ -18641,14 +18641,14 @@
       "spy_wt": 0.3927,
       "daily_return": -0.0023,
       "cumulative_return": 1.684,
-      "spy_cumulative_return": 1.215551,
+      "spy_cumulative_return": 1.21555,
       "formula_version": "v3-costs"
     },
     {
       "date": "2025-01-15",
       "vrp_z": -1.294,
       "ts_z": -0.3578,
-      "overnight_z": 0.8947,
+      "overnight_z": 0.8946,
       "equity_wt": 0.1859,
       "ts_gate": false,
       "spy_wt": 0.1859,
@@ -18685,7 +18685,7 @@
     },
     {
       "date": "2025-01-21",
-      "vrp_z": -1.6913,
+      "vrp_z": -1.6914,
       "ts_z": -0.7984,
       "overnight_z": 1.2525,
       "equity_wt": 0.1244,
@@ -18711,7 +18711,7 @@
     },
     {
       "date": "2025-01-23",
-      "vrp_z": -0.7276,
+      "vrp_z": -0.7277,
       "ts_z": -0.8538,
       "overnight_z": -0.4285,
       "equity_wt": 0.233,
@@ -18724,9 +18724,9 @@
     },
     {
       "date": "2025-01-24",
-      "vrp_z": -0.6708,
+      "vrp_z": -0.6709,
       "ts_z": -1.0594,
-      "overnight_z": 0.3473,
+      "overnight_z": 0.3472,
       "equity_wt": 0.2832,
       "ts_gate": false,
       "spy_wt": 0.1859,
@@ -18783,7 +18783,7 @@
       "ts_gate": false,
       "spy_wt": 0.3584,
       "daily_return": 0.0071,
-      "cumulative_return": 1.7604,
+      "cumulative_return": 1.7603,
       "spy_cumulative_return": 1.302507,
       "formula_version": "v3-costs"
     },
@@ -18797,7 +18797,7 @@
       "spy_wt": 0.3584,
       "daily_return": -0.0017,
       "cumulative_return": 1.7556,
-      "spy_cumulative_return": 1.290254,
+      "spy_cumulative_return": 1.290253,
       "formula_version": "v3-costs"
     },
     {
@@ -18841,7 +18841,7 @@
     },
     {
       "date": "2025-02-06",
-      "vrp_z": -0.3538,
+      "vrp_z": -0.3539,
       "ts_z": -0.736,
       "overnight_z": -1.3752,
       "equity_wt": 0.2605,
@@ -18849,7 +18849,7 @@
       "spy_wt": 0.3584,
       "daily_return": 0.0009,
       "cumulative_return": 1.7773,
-      "spy_cumulative_return": 1.307378,
+      "spy_cumulative_return": 1.307379,
       "formula_version": "v3-costs"
     },
     {
@@ -18869,7 +18869,7 @@
       "date": "2025-02-10",
       "vrp_z": -0.2548,
       "ts_z": -0.6774,
-      "overnight_z": -1.4446,
+      "overnight_z": -1.4447,
       "equity_wt": 0.2768,
       "ts_gate": false,
       "spy_wt": 0.3584,
@@ -18900,7 +18900,7 @@
       "ts_gate": false,
       "spy_wt": 0.3584,
       "daily_return": -0.0029,
-      "cumulative_return": 1.786,
+      "cumulative_return": 1.7859,
       "spy_cumulative_return": 1.296114,
       "formula_version": "v3-costs"
     },
@@ -18926,7 +18926,7 @@
       "ts_gate": false,
       "spy_wt": 0.2438,
       "daily_return": -0.0062,
-      "cumulative_return": 1.7892,
+      "cumulative_return": 1.7891,
       "spy_cumulative_return": 1.320241,
       "formula_version": "v3-costs"
     },
@@ -18934,18 +18934,18 @@
       "date": "2025-02-18",
       "vrp_z": 0.2485,
       "ts_z": -0.7706,
-      "overnight_z": -2.7827,
+      "overnight_z": -2.7828,
       "equity_wt": 0.3106,
       "ts_gate": false,
       "spy_wt": 0.2438,
       "daily_return": 0.0092,
-      "cumulative_return": 1.8148,
+      "cumulative_return": 1.8147,
       "spy_cumulative_return": 1.327053,
       "formula_version": "v3-costs"
     },
     {
       "date": "2025-02-19",
-      "vrp_z": 0.338,
+      "vrp_z": 0.3381,
       "ts_z": -0.9468,
       "overnight_z": -3.2323,
       "equity_wt": 0.306,
@@ -19023,7 +19023,7 @@
     },
     {
       "date": "2025-02-27",
-      "vrp_z": 1.5648,
+      "vrp_z": 1.5649,
       "ts_z": 1.6829,
       "overnight_z": -0.0446,
       "equity_wt": 0.3554,
@@ -19064,7 +19064,7 @@
       "date": "2025-03-04",
       "vrp_z": 1.4098,
       "ts_z": 2.2683,
-      "overnight_z": -0.3409,
+      "overnight_z": -0.3408,
       "equity_wt": 0.3325,
       "ts_gate": true,
       "spy_wt": 0.3325,
@@ -19083,7 +19083,7 @@
       "spy_wt": 0.3325,
       "daily_return": 0.0008,
       "cumulative_return": 1.7499,
-      "spy_cumulative_return": 1.218862,
+      "spy_cumulative_return": 1.218861,
       "formula_version": "v3-costs"
     },
     {
@@ -19277,8 +19277,8 @@
       "ts_gate": false,
       "spy_wt": 0.031,
       "daily_return": -0.002,
-      "cumulative_return": 1.7422,
-      "spy_cumulative_return": 1.170304,
+      "cumulative_return": 1.7421,
+      "spy_cumulative_return": 1.170305,
       "formula_version": "v3-costs"
     },
     {
@@ -19335,7 +19335,7 @@
     },
     {
       "date": "2025-04-02",
-      "vrp_z": -0.5499,
+      "vrp_z": -0.55,
       "ts_z": 1.4517,
       "overnight_z": -3.0385,
       "equity_wt": 0.069,
@@ -19377,9 +19377,9 @@
       "vrp_z": 2.6885,
       "ts_z": 5.1531,
       "overnight_z": -3.9758,
-      "equity_wt": 0.3695,
+      "equity_wt": 0.3694,
       "ts_gate": true,
-      "spy_wt": 0.3695,
+      "spy_wt": 0.3694,
       "daily_return": -0.0153,
       "cumulative_return": 1.6432,
       "spy_cumulative_return": 0.925215,
@@ -19421,7 +19421,7 @@
       "spy_wt": 0.0,
       "daily_return": 0.0001,
       "cumulative_return": 1.7755,
-      "spy_cumulative_return": 1.002319,
+      "spy_cumulative_return": 1.002318,
       "formula_version": "v3-costs"
     },
     {
@@ -19434,7 +19434,7 @@
       "spy_wt": 0.0,
       "daily_return": 0.0036,
       "cumulative_return": 1.7854,
-      "spy_cumulative_return": 1.038046,
+      "spy_cumulative_return": 1.038045,
       "formula_version": "v3-costs"
     },
     {
@@ -19504,7 +19504,7 @@
     },
     {
       "date": "2025-04-22",
-      "vrp_z": -4.197,
+      "vrp_z": -4.1969,
       "ts_z": 1.4789,
       "overnight_z": -3.0521,
       "equity_wt": 0.0,
@@ -19543,7 +19543,7 @@
     },
     {
       "date": "2025-04-25",
-      "vrp_z": -4.5945,
+      "vrp_z": -4.5944,
       "ts_z": 0.7122,
       "overnight_z": -3.0664,
       "equity_wt": 0.0,
@@ -19590,7 +19590,7 @@
       "spy_wt": 0.0,
       "daily_return": -0.0075,
       "cumulative_return": 1.8459,
-      "spy_cumulative_return": 1.116676,
+      "spy_cumulative_return": 1.116675,
       "formula_version": "v3-costs"
     },
     {
@@ -19653,7 +19653,7 @@
       "equity_wt": 0.0,
       "ts_gate": false,
       "spy_wt": 0.0,
-      "daily_return": -0.0044,
+      "daily_return": -0.0045,
       "cumulative_return": 1.8254,
       "spy_cumulative_return": 1.141906,
       "formula_version": "v3-costs"
@@ -19668,7 +19668,7 @@
       "spy_wt": 0.0,
       "daily_return": -0.0132,
       "cumulative_return": 1.7882,
-      "spy_cumulative_return": 1.15683,
+      "spy_cumulative_return": 1.156831,
       "formula_version": "v3-costs"
     },
     {
@@ -19746,7 +19746,7 @@
       "spy_wt": 0.2988,
       "daily_return": -0.0007,
       "cumulative_return": 1.8044,
-      "spy_cumulative_return": 1.268058,
+      "spy_cumulative_return": 1.268057,
       "formula_version": "v3-costs"
     },
     {
@@ -19837,7 +19837,7 @@
       "spy_wt": 0.3807,
       "daily_return": -0.0038,
       "cumulative_return": 1.8119,
-      "spy_cumulative_return": 1.243361,
+      "spy_cumulative_return": 1.243362,
       "formula_version": "v3-costs"
     },
     {
@@ -19868,7 +19868,7 @@
     },
     {
       "date": "2025-06-02",
-      "vrp_z": -0.0217,
+      "vrp_z": -0.0218,
       "ts_z": -0.7147,
       "overnight_z": -0.3501,
       "equity_wt": 0.3781,
@@ -20005,8 +20005,8 @@
       "ts_gate": false,
       "spy_wt": 0.5195,
       "daily_return": 0.0019,
-      "cumulative_return": 1.8647,
-      "spy_cumulative_return": 1.300425,
+      "cumulative_return": 1.8646,
+      "spy_cumulative_return": 1.300426,
       "formula_version": "v3-costs"
     },
     {
@@ -20057,7 +20057,7 @@
       "ts_gate": false,
       "spy_wt": 0.5195,
       "daily_return": 0.0067,
-      "cumulative_return": 1.8712,
+      "cumulative_return": 1.8711,
       "spy_cumulative_return": 1.297541,
       "formula_version": "v3-costs"
     },
@@ -20144,7 +20144,7 @@
       "vrp_z": 0.6055,
       "ts_z": -0.8607,
       "overnight_z": 0.1671,
-      "equity_wt": 0.5294,
+      "equity_wt": 0.5295,
       "ts_gate": false,
       "spy_wt": 0.5195,
       "daily_return": 0.0024,
@@ -20227,7 +20227,7 @@
       "spy_wt": 0.5195,
       "daily_return": -0.002,
       "cumulative_return": 1.9232,
-      "spy_cumulative_return": 1.38739,
+      "spy_cumulative_return": 1.387391,
       "formula_version": "v3-costs"
     },
     {
@@ -20383,7 +20383,7 @@
       "spy_wt": 0.5158,
       "daily_return": 0.0009,
       "cumulative_return": 1.9596,
-      "spy_cumulative_return": 1.431951,
+      "spy_cumulative_return": 1.431952,
       "formula_version": "v3-costs"
     },
     {
@@ -20474,7 +20474,7 @@
       "spy_wt": 0.5378,
       "daily_return": 0.0026,
       "cumulative_return": 1.9728,
-      "spy_cumulative_return": 1.420428,
+      "spy_cumulative_return": 1.420429,
       "formula_version": "v3-costs"
     },
     {
@@ -20583,7 +20583,7 @@
     },
     {
       "date": "2025-08-20",
-      "vrp_z": 0.322,
+      "vrp_z": 0.3221,
       "ts_z": -1.1761,
       "overnight_z": 0.7932,
       "equity_wt": 0.5041,
@@ -20713,7 +20713,7 @@
     },
     {
       "date": "2025-09-04",
-      "vrp_z": 0.3773,
+      "vrp_z": 0.3774,
       "ts_z": -1.0092,
       "overnight_z": -0.5222,
       "equity_wt": 0.4494,
@@ -20721,7 +20721,7 @@
       "spy_wt": 0.4342,
       "daily_return": 0.0077,
       "cumulative_return": 2.0781,
-      "spy_cumulative_return": 1.485011,
+      "spy_cumulative_return": 1.485012,
       "formula_version": "v3-costs"
     },
     {
@@ -20902,7 +20902,7 @@
       "ts_gate": false,
       "spy_wt": 0.55,
       "daily_return": -0.0046,
-      "cumulative_return": 2.1922,
+      "cumulative_return": 2.1921,
       "spy_cumulative_return": 1.537891,
       "formula_version": "v3-costs"
     },
@@ -21116,7 +21116,7 @@
     },
     {
       "date": "2025-10-17",
-      "vrp_z": 0.5831,
+      "vrp_z": 0.5832,
       "ts_z": 0.4106,
       "overnight_z": 0.7201,
       "equity_wt": 0.5526,
@@ -21188,7 +21188,7 @@
       "ts_gate": false,
       "spy_wt": 0.448,
       "daily_return": 0.0064,
-      "cumulative_return": 2.363,
+      "cumulative_return": 2.3629,
       "spy_cumulative_return": 1.599889,
       "formula_version": "v3-costs"
     },
@@ -21396,7 +21396,7 @@
       "ts_gate": false,
       "spy_wt": 0.5727,
       "daily_return": -0.0068,
-      "cumulative_return": 2.3107,
+      "cumulative_return": 2.3106,
       "spy_cumulative_return": 1.555435,
       "formula_version": "v3-costs"
     },
@@ -21409,7 +21409,7 @@
       "ts_gate": true,
       "spy_wt": 0.316,
       "daily_return": -0.0039,
-      "cumulative_return": 2.2978,
+      "cumulative_return": 2.2977,
       "spy_cumulative_return": 1.533975,
       "formula_version": "v3-costs"
     },
@@ -21422,7 +21422,7 @@
       "ts_gate": true,
       "spy_wt": 0.316,
       "daily_return": 0.0038,
-      "cumulative_return": 2.3104,
+      "cumulative_return": 2.3103,
       "spy_cumulative_return": 1.543765,
       "formula_version": "v3-costs"
     },
@@ -21526,7 +21526,7 @@
       "ts_gate": false,
       "spy_wt": 0.4539,
       "daily_return": 0.0012,
-      "cumulative_return": 2.3969,
+      "cumulative_return": 2.3968,
       "spy_cumulative_return": 1.61632,
       "formula_version": "v3-costs"
     },
@@ -21688,7 +21688,7 @@
     },
     {
       "date": "2025-12-19",
-      "vrp_z": 0.0113,
+      "vrp_z": 0.0114,
       "ts_z": -1.0644,
       "overnight_z": 0.9414,
       "equity_wt": 0.4493,
@@ -21838,7 +21838,7 @@
       "ts_gate": false,
       "spy_wt": 0.4539,
       "daily_return": -0.0039,
-      "cumulative_return": 2.4871,
+      "cumulative_return": 2.487,
       "spy_cumulative_return": 1.655045,
       "formula_version": "v3-costs"
     },
@@ -21851,7 +21851,7 @@
       "ts_gate": false,
       "spy_wt": 0.4539,
       "daily_return": -0.001,
-      "cumulative_return": 2.4835,
+      "cumulative_return": 2.4834,
       "spy_cumulative_return": 1.654775,
       "formula_version": "v3-costs"
     },
@@ -22314,12 +22314,12 @@
       "date": "2026-03-03",
       "vrp_z": 0.8617,
       "ts_z": 1.2827,
-      "overnight_z": -1.0202,
+      "overnight_z": -1.0203,
       "equity_wt": 0.2607,
       "ts_gate": true,
       "spy_wt": 0.2607,
       "daily_return": -0.0207,
-      "cumulative_return": 2.6511,
+      "cumulative_return": 2.651,
       "spy_cumulative_return": 1.61943,
       "formula_version": "v3-costs"
     },
@@ -22435,9 +22435,22 @@
       "equity_wt": 0.5026,
       "ts_gate": false,
       "spy_wt": 0.5026,
-      "daily_return": 0.0059,
-      "cumulative_return": 2.6038,
+      "daily_return": 0.0037,
+      "cumulative_return": 2.5956,
       "spy_cumulative_return": 1.575923,
+      "formula_version": "v3-costs"
+    },
+    {
+      "date": "2026-03-17",
+      "vrp_z": 0.8017,
+      "ts_z": 0.3217,
+      "overnight_z": -1.5916,
+      "equity_wt": 0.4808,
+      "ts_gate": false,
+      "spy_wt": 0.4808,
+      "daily_return": 0.0017,
+      "cumulative_return": 2.6016,
+      "spy_cumulative_return": 1.582699,
       "formula_version": "v3-costs"
     }
   ],
@@ -22449,7 +22462,7 @@
     "2023": 0.186,
     "2024": 0.3,
     "2025": 0.2866,
-    "2026": 0.0496
+    "2026": 0.0489
   },
   "spy_annual_returns": {
     "2019": 0.1356,
@@ -22459,6 +22472,6 @@
     "2023": 0.2618,
     "2024": 0.2489,
     "2025": 0.1772,
-    "2026": -0.0189
+    "2026": -0.0163
   }
 }
