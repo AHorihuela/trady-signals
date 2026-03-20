@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-03-19T21:56:46Z",
-  "data_date": "2026-03-19",
+  "generated_at": "2026-03-20T21:54:29Z",
+  "data_date": "2026-03-20",
   "formula_version": "v3-costs",
   "signals": {
-    "vix": 24.06,
-    "vix3m": 25.54,
-    "rv21": 12.6037,
-    "vrp_z": 0.9182,
-    "ts_z": 0.6099,
-    "overnight_z": -1.5002,
+    "vix": 26.78,
+    "vix3m": 27.43,
+    "rv21": 13.674,
+    "vrp_z": 1.1023,
+    "ts_z": 1.0382,
+    "overnight_z": -1.2791,
     "yc_inverted": false
   },
   "weights": {
     "target": {
-      "SPY": 0.5086,
-      "IEF": 0.344,
-      "GLD": 0.1474,
-      "DBMF": 0.1941
+      "SPY": 0.2783,
+      "IEF": 0.5052,
+      "GLD": 0.2165,
+      "DBMF": 0.1307
     },
     "current": {
-      "SPY": 0.4808,
-      "IEF": 0.3635,
-      "GLD": 0.1558,
-      "DBMF": 0.2158
+      "SPY": 0.2783,
+      "IEF": 0.5052,
+      "GLD": 0.2165,
+      "DBMF": 0.1307
     },
-    "max_drift": 0.0278,
-    "rebalance_needed": false,
-    "total_notional": 1.194
+    "max_drift": 0.0,
+    "rebalance_needed": true,
+    "total_notional": 1.131
   },
   "performance": {
-    "cumulative_return": 2.5058,
-    "sharpe": 1.6,
+    "cumulative_return": 2.4375,
+    "sharpe": 1.57,
     "max_drawdown": -0.0822,
     "inception_date": "2019-05-08",
-    "trading_days": 1726
+    "trading_days": 1727
   },
   "spy_performance": {
-    "cumulative_return": 1.540385,
-    "sharpe": 0.78,
+    "cumulative_return": 1.497147,
+    "sharpe": 0.77,
     "max_drawdown": -0.3372
   },
   "history": [
@@ -22478,6 +22478,19 @@
       "cumulative_return": 2.5058,
       "spy_cumulative_return": 1.540385,
       "formula_version": "v3-costs"
+    },
+    {
+      "date": "2026-03-20",
+      "vrp_z": 1.1023,
+      "ts_z": 1.0382,
+      "overnight_z": -1.2791,
+      "equity_wt": 0.2783,
+      "ts_gate": true,
+      "spy_wt": 0.2783,
+      "daily_return": -0.0195,
+      "cumulative_return": 2.4375,
+      "spy_cumulative_return": 1.497147,
+      "formula_version": "v3-costs"
     }
   ],
   "annual_returns": {
@@ -22488,7 +22501,7 @@
     "2023": 0.186,
     "2024": 0.3,
     "2025": 0.2866,
-    "2026": 0.021
+    "2026": 0.0011
   },
   "spy_annual_returns": {
     "2019": 0.1356,
@@ -22498,6 +22511,6 @@
     "2023": 0.2618,
     "2024": 0.2489,
     "2025": 0.1772,
-    "2026": -0.0324
+    "2026": -0.0489
   }
 }
