@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-30T22:29:42Z",
-  "data_date": "2026-04-30",
+  "generated_at": "2026-05-01T22:26:03Z",
+  "data_date": "2026-05-01",
   "formula_version": "v3-costs",
   "signals": {
-    "vix": 16.89,
-    "vix3m": 20.08,
-    "rv21": 11.6223,
-    "vrp_z": 0.0236,
-    "ts_z": -0.6877,
-    "overnight_z": -1.1406,
+    "vix": 16.99,
+    "vix3m": 20.37,
+    "rv21": 11.597,
+    "vrp_z": 0.0243,
+    "ts_z": -0.8003,
+    "overnight_z": -1.1669,
     "yc_inverted": false
   },
   "weights": {
     "target": {
-      "SPY": 0.3477,
-      "IEF": 0.4566,
-      "GLD": 0.1957,
-      "DBMF": 0.0319
+      "SPY": 0.3465,
+      "IEF": 0.4574,
+      "GLD": 0.196,
+      "DBMF": 0.023
     },
     "current": {
       "SPY": 0.2961,
@@ -24,19 +24,19 @@
       "GLD": 0.2112,
       "DBMF": 0.0293
     },
-    "max_drift": 0.0516,
+    "max_drift": 0.0504,
     "rebalance_needed": false,
-    "total_notional": 1.032
+    "total_notional": 1.023
   },
   "performance": {
-    "cumulative_return": 2.5827,
+    "cumulative_return": 2.5802,
     "sharpe": 1.6,
     "max_drawdown": -0.0881,
     "inception_date": "2019-05-08",
-    "trading_days": 1755
+    "trading_days": 1756
   },
   "spy_performance": {
-    "cumulative_return": 1.76701,
+    "cumulative_return": 1.774672,
     "sharpe": 0.84,
     "max_drawdown": -0.3372
   },
@@ -22855,6 +22855,19 @@
       "cumulative_return": 2.5827,
       "spy_cumulative_return": 1.76701,
       "formula_version": "v3-costs"
+    },
+    {
+      "date": "2026-05-01",
+      "vrp_z": 0.0243,
+      "ts_z": -0.8003,
+      "overnight_z": -1.1669,
+      "equity_wt": 0.3465,
+      "ts_gate": false,
+      "spy_wt": 0.2961,
+      "daily_return": -0.0007,
+      "cumulative_return": 2.5802,
+      "spy_cumulative_return": 1.774672,
+      "formula_version": "v3-costs"
     }
   ],
   "annual_returns": {
@@ -22865,7 +22878,7 @@
     "2023": 0.186,
     "2024": 0.3,
     "2025": 0.2866,
-    "2026": 0.0434
+    "2026": 0.0427
   },
   "spy_annual_returns": {
     "2019": 0.1356,
@@ -22875,6 +22888,6 @@
     "2023": 0.2618,
     "2024": 0.2489,
     "2025": 0.1772,
-    "2026": 0.0539
+    "2026": 0.0568
   }
 }
